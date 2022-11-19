@@ -48,11 +48,9 @@ namespace GoViewWtm.Controllers
                 }
                 else
                 {
-                    //Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
                     var temp = new
                     {
                         content = Encoding.UTF8.GetString(model.ContentData),
-                        //content = Encoding.GetEncoding("gb2312").GetString(model.ContentData),
                         createTime = pro.CreateTime,
                         createUserId = pro.CreateUserId.ToString(),
                         id = projectId,

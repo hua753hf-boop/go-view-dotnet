@@ -29,6 +29,7 @@ GoView .Net后台服务
 3.  在GoViewWtm修改appsettings.json配置文件中Connections数据库连接字符串，支持mysql,sqlserver,pgsql,sqlite,oracle。其中DBType是目标数据库，Value是连接字符串。
 4.  项目启动为ef codefirst方式，如果是一次试用，建议数据库连接字符串中Database随便给一个数据库名称就行了，不要使用已经存在的数据库名称，也不需要手动去创建空的库。ef会给你自动生成。
 5.  项目启动成功后账号是admin 密码000000
+6.  可以使用当前默认的sqlite直接启动 无需指定数据库
 
 #### volcoew安装教程
 
