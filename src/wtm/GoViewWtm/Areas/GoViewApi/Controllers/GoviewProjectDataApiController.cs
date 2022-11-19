@@ -48,9 +48,11 @@ namespace GoViewWtm.Controllers
                 }
                 else
                 {
+                    //Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
                     var temp = new
                     {
                         content = Encoding.UTF8.GetString(model.ContentData),
+                        //content = Encoding.GetEncoding("gb2312").GetString(model.ContentData),
                         createTime = pro.CreateTime,
                         createUserId = pro.CreateUserId.ToString(),
                         id = projectId,
@@ -88,7 +90,7 @@ namespace GoViewWtm.Controllers
             var model = DC.Set<GoviewProjectData>().FirstOrDefault(x => x.ProjectId == data.projectId);
             if (model!=null)
             {
-                model.ContentData = Encoding.ASCII.GetBytes(data.content);
+                model.ContentData = Encoding.UTF8.GetBytes(data.content);
                 DC.Set<GoviewProjectData>().Update(model);
                 int x = DC.SaveChanges();
                 if (x>0)

@@ -281,7 +281,7 @@ namespace VOL.WebApi.Controllers.VolToGoView
             };
             if (model != null)
             {
-                model.ContentData = Encoding.ASCII.GetBytes(data.content);
+                model.ContentData = Encoding.UTF8.GetBytes(data.content);
                 _repository.DbContext.Set<Goviewprojectdatas>().Update(model);
                 int x = await _repository.DbContext.SaveChangesAsync();
                 if (x > 0)
