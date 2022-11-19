@@ -40,15 +40,14 @@ GoView .Net后台服务
 5.  项目启动成功后账号是admin 密码123456
 
 
-
-
 #### 开源项目地址
 
 1.  goview https://gitee.com/dromara/go-view
 2.  wtm https://gitee.com/liuliang-wtm/WTM?_from=gitee_search
 3.  volcore https://gitee.com/x_discoverer/Vue.NetCore
 
-
+#### 视频教程
+VolCore对接思路及实现过程视频：https://www.bilibili.com/video/BV1a84y1y7W4/?vd_source=0779e115e96c0d4a280ad38921168666
 
 #### 说明
 有问题，提交issue
