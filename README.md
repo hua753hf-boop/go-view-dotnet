@@ -34,11 +34,12 @@ GoView .Net后台服务
 #### volcoew安装教程
 
 1.  volcore框架为net3.1版本，启动前确认本机知否安装.NET Core 3.1 或者 vs2019 vs2022
-1.  下载或者clone源码 wtm项目再src/volcore中
-2.  VS双击VOL.sln vscode则再Vue.Net目录打开
-3.  在VOL.WebApi修改appsettings.json配置文件中Connection数据库连接字符串，支持mysql,sqlserver,pgsql。其中DBType是目标数据库，DbConnectionString是连接字符串。
-4.  项目启动为DB codefirst方式，如果是一次试用，先执行volcore\DB 下对应数据库脚本goviewvolcore.sql 目前仅提供mysql
-5.  项目启动成功后账号是admin 密码123456
+2.  下载或者clone源码 volcore项目再src/volcore中
+3.  mysql数据库版本>=5.7
+4.  VS双击VOL.sln vscode则再Vue.Net目录打开
+5.  在VOL.WebApi修改appsettings.json配置文件中Connection数据库连接字符串，支持mysql,sqlserver,pgsql。其中DBType是目标数据库，DbConnectionString是连接字符串。
+6.  项目启动为DB codefirst方式，如果是一次试用，先执行volcore\DB 下对应数据库脚本goviewvolcore.sql 目前仅提供mysql
+7.  项目启动成功后账号是admin 密码123456
 
 
 #### 开源项目地址
