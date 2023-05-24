@@ -30,18 +30,18 @@ namespace GoViewWtm.ViewModel.Asset.StaticFileVMs
                 this.MakeGridHeader(x => x.Title),
                  this.MakeGridHeader(x=> x.ViewPath,100).SetTitle("缩略图").SetFormat((a,b)=>
                 {
+                    return  $"<img src='{a.ViewPath}' height='auto' width='100%' />";
+                    //if (a.ViewPath.Contains(".svg"))
+                    //{
+                    //    return
 
-                    if (a.ViewPath.Contains(".svg"))
-                    {
-                        return
-
-                        $"<object type='image/svg+xml' data='{a.ViewPath}' style='display:block;width:200px;height:200px' > " +
-                           $"<param name='src' value='{a.ViewPath}' >" +
-                        $"</object>";
-                    }else
-                    {
-                        return  $"<img src='{a.ViewPath}' height='200' width='200' />";
-                    }                  
+                    //    $"<object type='image/svg+xml' data='{a.ViewPath}' style='display:block;width:200px;height:200px' > " +
+                    //       $"<param name='src' value='{a.ViewPath}' >" +
+                    //    $"</object>";
+                    //}else
+                    //{
+                    //    return  $"<img src='{a.ViewPath}' height='200' width='200' />";
+                    //}                  
 
                 }),
                  this.MakeGridHeader(x => x.PicPath),

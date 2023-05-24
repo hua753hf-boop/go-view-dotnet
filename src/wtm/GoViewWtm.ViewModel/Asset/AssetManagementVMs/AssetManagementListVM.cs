@@ -37,7 +37,7 @@ namespace GoViewWtm.ViewModel.Asset.AssetManagementVMs
                 this.MakeGridHeader(x => x.Title),               
                 this.MakeGridHeader(x=> x.Photo_view,100).SetFormat((a,b)=>
                 {
-                    return  $"<img src='/api/_file/GetFile/{a.Photo_view}'height='100' width='100'  />";
+                    return  $"<img src='/api/_file/GetFile/{a.Photo_view} 'height='auto' width='100%'  />";
 
                 }),
                 this.MakeGridHeader(x => x.PhotoId).SetFormat(PhotoIdFormat),
