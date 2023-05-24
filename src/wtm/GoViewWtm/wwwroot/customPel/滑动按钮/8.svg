@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 101.1 40"
+   style="enable-background:new 0 0 101.1 40;"
+   xml:space="preserve"
+   sodipodi:docname="推钮二_12.svg"><metadata
+   id="metadata64"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs62" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview60" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{opacity:0.5;fill:#508AFF;enable-background:new    ;}
+</style>
+<title
+   id="title4">资源 12</title>
+<g
+   id="g57">
+	<g
+   id="图层_2_1_">
+		<g
+   id="图层_1-2">
+			
+				<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="-1311.2584"
+   y1="749.2797"
+   x2="-1312.3785"
+   y2="787.8597"
+   gradientTransform="matrix(-1 0 0 1 -1261.3101 -750)">
+				<stop
+   offset="0"
+   style="stop-color:#FAFAFA"
+   id="stop6" />
+				<stop
+   offset="0.25"
+   style="stop-color:#F6F6F6"
+   id="stop8" />
+				<stop
+   offset="0.49"
+   style="stop-color:#EAEAEA"
+   id="stop10" />
+				<stop
+   offset="0.73"
+   style="stop-color:#D7D7D7"
+   id="stop12" />
+				<stop
+   offset="0.97"
+   style="stop-color:#BBBBBB"
+   id="stop14" />
+				<stop
+   offset="1"
+   style="stop-color:#B8B8B8"
+   id="stop16" />
+			</linearGradient>
+			<path
+   class="st0"
+   d="M20,0h61.1c11,0,20,9,20,20s-9,20-20,20H20C9,40,0,31,0,20S9,0,20,0z"
+   id="path19" />
+			
+				<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="-1342.5111"
+   y1="789.1399"
+   x2="-1342.3112"
+   y2="751.2799"
+   gradientTransform="matrix(-1 0 0 1 -1261.3101 -750)">
+				<stop
+   offset="0"
+   style="stop-color:#FAFAFA"
+   id="stop21" />
+				<stop
+   offset="0.25"
+   style="stop-color:#F6F6F6"
+   id="stop23" />
+				<stop
+   offset="0.49"
+   style="stop-color:#EAEAEA"
+   id="stop25" />
+				<stop
+   offset="0.73"
+   style="stop-color:#D7D7D7"
+   id="stop27" />
+				<stop
+   offset="0.97"
+   style="stop-color:#BBBBBB"
+   id="stop29" />
+				<stop
+   offset="1"
+   style="stop-color:#B8B8B8"
+   id="stop31" />
+			</linearGradient>
+			<circle
+   class="st1"
+   cx="81.1"
+   cy="20"
+   r="18.5"
+   id="circle34" />
+			
+				<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="-1351.2583"
+   y1="760.9781"
+   x2="-1333.4183"
+   y2="779.1681"
+   gradientTransform="matrix(-1 0 0 1 -1261.3101 -750)">
+				<stop
+   offset="0"
+   style="stop-color:#FAFAFA"
+   id="stop36" />
+				<stop
+   offset="0.25"
+   style="stop-color:#F6F6F6"
+   id="stop38" />
+				<stop
+   offset="0.49"
+   style="stop-color:#EAEAEA"
+   id="stop40" />
+				<stop
+   offset="0.73"
+   style="stop-color:#D7D7D7"
+   id="stop42" />
+				<stop
+   offset="0.97"
+   style="stop-color:#BBBBBB"
+   id="stop44" />
+				<stop
+   offset="1"
+   style="stop-color:#B8B8B8"
+   id="stop46" />
+			</linearGradient>
+			<circle
+   class="st2"
+   cx="81.1"
+   cy="20"
+   r="14.4"
+   id="circle49" />
+			<path
+   class="st3"
+   d="M82.2,24.6l4.8-4c0.4-0.3,0.5-0.8,0.2-1.2c-0.1-0.1-0.1-0.1-0.2-0.2l-4.8-4c-0.4-0.4-1-0.4-1.4-0.1     c-0.3,0.5-0.1,1,0.3,1.3l3.3,2.7c0.4,0.3,0.5,0.8,0.2,1.2c0,0.1-0.1,0.1-0.2,0.2l-3.3,2.7c-0.4,0.3-0.6,0.9-0.3,1.3     C81.2,25,81.8,25,82.2,24.6z"
+   id="path51" />
+			<path
+   class="st3"
+   d="M77.7,24.6l4.8-4c0.4-0.3,0.5-0.8,0.2-1.2c-0.1-0.1-0.1-0.1-0.2-0.2l-4.8-4c-0.4-0.4-1-0.4-1.4-0.1     c-0.3,0.5-0.1,1,0.3,1.3l3.3,2.7c0.4,0.3,0.5,0.8,0.2,1.2c0,0.1-0.1,0.1-0.2,0.2l-3.3,2.7c-0.4,0.3-0.6,0.9-0.3,1.3     C76.7,25,77.3,25,77.7,24.6z"
+   id="path53" />
+		</g>
+	</g>
+</g>
+</svg>

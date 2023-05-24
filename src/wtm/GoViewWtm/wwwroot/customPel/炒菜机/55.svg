@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 50 50"
+   style="enable-background:new 0 0 50 50;"
+   xml:space="preserve"
+   sodipodi:docname="炒菜机_055.svg"><metadata
+   id="metadata15"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs13" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview11" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#1296DB;}
+</style>
+<title
+   id="title4">资源 55</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_1-2">
+		<path
+   class="st0"
+   d="M25,0l-7.3,7.3H7.3v10.4L0,25l7.3,7.3v10.4h10.4L25,50l7.3-7.3h10.4V32.3L50,25l-7.3-7.3V7.3H32.3L25,0z     M22.8,13.9h4.4l7.1,19.9h-4.2l-1.5-4.4h-7.1L20,33.8h-4.2L22.8,13.9z M22.6,26.3h5.1l-2.7-8L22.6,26.3z"
+   id="path6" />
+	</g>
+</g>
+</svg>

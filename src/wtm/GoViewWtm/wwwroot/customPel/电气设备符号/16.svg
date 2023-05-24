@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="75.336px"
+   height="34.134px"
+   viewBox="385.172 296.223 75.336 34.134"
+   enable-background="new 385.172 296.223 75.336 34.134"
+   xml:space="preserve"
+   sodipodi:docname="01-16.svg"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs21" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview19" />
+<g
+   id="g16">
+	<g
+   id="g12">
+		<polyline
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   points="411.021,312.276 403.67,312.276     403.67,317.276 403.67,322.276 411.021,322.276   "
+   id="polyline2" />
+		<polyline
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   points="434.659,322.276 442.01,322.276     442.01,317.276 442.01,312.276 434.659,312.276   "
+   id="polyline4" />
+		<circle
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   cx="422.84"
+   cy="317.273"
+   r="12.834"
+   id="circle6" />
+		<path
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M460.508,317.276H442.01"
+   id="path8" />
+		<path
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M385.172,317.276h18.498"
+   id="path10" />
+	</g>
+	<path
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M460.508,299.97h-23.681   c0-1.931-1.565-3.497-3.496-3.497c-1.932,0-3.497,1.565-3.497,3.497c0-1.931-1.566-3.497-3.496-3.497   c-1.933,0-3.498,1.565-3.498,3.497c0-1.931-1.566-3.497-3.496-3.497c-1.933,0-3.498,1.565-3.498,3.497   c0-1.931-1.566-3.497-3.496-3.497c-1.932,0-3.498,1.565-3.498,3.497l0,0h-23.68"
+   id="path14" />
+</g>
+</svg>

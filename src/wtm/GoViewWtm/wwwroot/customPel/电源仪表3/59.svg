@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 32.9 32.9"
+   style="enable-background:new 0 0 32.9 32.9;"
+   xml:space="preserve"
+   sodipodi:docname="UPS电源_259.svg"><metadata
+   id="metadata31"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs29" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview27" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#949394;}
+	.st2{fill:#2D74DA;}
+	.st3{opacity:0.9;fill:#FFFFFF;enable-background:new    ;}
+	.st4{fill:#81B532;}
+	.st5{fill:#FF806C;}
+	.st6{fill:#56ACF2;}
+</style>
+<title
+   id="title4">资源 259</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_2-2">
+		<path
+   class="st0"
+   d="M0.5,0.5h27.6v27.6H0.5V0.5z"
+   id="path6" />
+		<path
+   class="st1"
+   d="M27.6,1.1v26.6H1.1V1.1H27.6 M28.7,0H0v28.7h28.7V0z"
+   id="path8" />
+		<path
+   class="st2"
+   d="M2.8,2.8h2.8v5.6H11V2.8h2.8V17H11v-6.1H5.6V17H2.8V2.8z M16.3,15.5l4.8-7h-4.2V6.3h7.8v1.5l-4.8,7h5V17h-8.5    L16.3,15.5L16.3,15.5z"
+   id="path10" />
+		<path
+   class="st3"
+   d="M12.8,22.3h7.4v10.6h-7.4V22.3z"
+   id="path12" />
+		<path
+   class="st3"
+   d="M19.1,15.9h7.4v17h-7.4V15.9z"
+   id="path14" />
+		<path
+   class="st3"
+   d="M25.5,19.1h7.4v13.8h-7.4V19.1z"
+   id="path16" />
+		<path
+   class="st4"
+   d="M13.8,23.4h5.3v8.5h-5.3V23.4z"
+   id="path18" />
+		<path
+   class="st5"
+   d="M20.2,17h5.3v14.9h-5.3V17z"
+   id="path20" />
+		<path
+   class="st6"
+   d="M26.5,20.2h5.3v11.7h-5.3V20.2z"
+   id="path22" />
+	</g>
+</g>
+</svg>

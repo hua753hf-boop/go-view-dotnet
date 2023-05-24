@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="102px"
+   height="30px"
+   viewBox="0 0 102 30"
+   enable-background="new 0 0 102 30"
+   xml:space="preserve"
+   sodipodi:docname="开关按钮 _vA1-63-01.svg"><metadata
+   id="metadata49"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs47" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview45" />
+<switch
+   id="switch42">
+	<foreignObject
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1">
+		
+	</foreignObject>
+	<g
+   i:extraneous="self"
+   id="g40">
+		<g
+   id="g38">
+			
+				<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="341"
+   y1="-316"
+   x2="341"
+   y2="-346"
+   gradientTransform="matrix(1 0 0 -1 -290 -316)">
+				<stop
+   offset="0"
+   style="stop-color:#DEDEDE"
+   id="stop2" />
+				<stop
+   offset="1"
+   style="stop-color:#CFCFCF"
+   id="stop4" />
+				<a:midPointStop
+   offset="0"
+   style="stop-color:#DEDEDE" />
+				<a:midPointStop
+   offset="0.5"
+   style="stop-color:#DEDEDE" />
+				<a:midPointStop
+   offset="1"
+   style="stop-color:#CFCFCF" />
+			</linearGradient>
+			<rect
+   fill="url(#SVGID_1_)"
+   width="102.001"
+   height="30"
+   id="rect7" />
+			<polygon
+   opacity="0.2"
+   fill="#FCFCFC"
+   enable-background="new    "
+   points="101.599,29.393 0.402,29.393 0.402,0.605      101.599,0.605    "
+   id="polygon9" />
+			<g
+   id="g18">
+				
+					<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="341"
+   y1="-311.3027"
+   x2="341"
+   y2="-373.2707"
+   gradientTransform="matrix(1 0 0 -1 -290 -316)">
+					<stop
+   offset="0"
+   style="stop-color:#FEFEFE"
+   id="stop11" />
+					<stop
+   offset="1"
+   style="stop-color:#595959"
+   id="stop13" />
+					<a:midPointStop
+   offset="0"
+   style="stop-color:#FEFEFE" />
+					<a:midPointStop
+   offset="0.5"
+   style="stop-color:#FEFEFE" />
+					<a:midPointStop
+   offset="1"
+   style="stop-color:#595959" />
+				</linearGradient>
+				<path
+   fill="url(#SVGID_2_)"
+   d="M101.599,0.605H76.023C45.877,5.829,10.996,17.795,0.402,21.565v7.827h101.196V0.605z"
+   id="path16" />
+			</g>
+			
+				<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="291.4063"
+   y1="-330.0332"
+   x2="390.5947"
+   y2="-330.0332"
+   gradientTransform="matrix(1 0 0 -1 -290 -316)">
+				<stop
+   offset="0"
+   style="stop-color:#E6E4E4"
+   id="stop20" />
+				<stop
+   offset="0.5495"
+   style="stop-color:#515151"
+   id="stop22" />
+				<stop
+   offset="1"
+   style="stop-color:#E6E6E6"
+   id="stop24" />
+				<a:midPointStop
+   offset="0"
+   style="stop-color:#E6E4E4" />
+				<a:midPointStop
+   offset="0.5"
+   style="stop-color:#E6E4E4" />
+				<a:midPointStop
+   offset="0.5495"
+   style="stop-color:#515151" />
+				<a:midPointStop
+   offset="0.5"
+   style="stop-color:#515151" />
+				<a:midPointStop
+   offset="1"
+   style="stop-color:#E6E6E6" />
+			</linearGradient>
+			<polygon
+   opacity="0.7"
+   fill="url(#SVGID_3_)"
+   a:adobe-blending-mode="lighten"
+   enable-background="new    "
+   points="     100.595,26.911 1.406,26.911 1.406,1.155 100.595,1.155    "
+   id="polygon27" />
+			
+				<linearGradient
+   id="SVGID_4_"
+   gradientUnits="userSpaceOnUse"
+   x1="315.1006"
+   y1="-343.1733"
+   x2="373.2515"
+   y2="-343.1733"
+   gradientTransform="matrix(1 0 0 -1 -290 -316)">
+				<stop
+   offset="0"
+   style="stop-color:#A8A8A8"
+   id="stop29" />
+				<stop
+   offset="0.533"
+   style="stop-color:#FFFFFF"
+   id="stop31" />
+				<stop
+   offset="0.9951"
+   style="stop-color:#A6A6A6"
+   id="stop33" />
+				<a:midPointStop
+   offset="0"
+   style="stop-color:#A8A8A8" />
+				<a:midPointStop
+   offset="0.5"
+   style="stop-color:#A8A8A8" />
+				<a:midPointStop
+   offset="0.533"
+   style="stop-color:#FFFFFF" />
+				<a:midPointStop
+   offset="0.5"
+   style="stop-color:#FFFFFF" />
+				<a:midPointStop
+   offset="0.9951"
+   style="stop-color:#A6A6A6" />
+			</linearGradient>
+			<rect
+   x="25.101"
+   y="26.769"
+   fill="url(#SVGID_4_)"
+   width="57.963"
+   height="0.81"
+   id="rect36" />
+		</g>
+	</g>
+</switch>
+
+</svg>

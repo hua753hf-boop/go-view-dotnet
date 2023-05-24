@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="139.234px"
+   height="56px"
+   viewBox="145.196 266.376 139.234 56"
+   enable-background="new 145.196 266.376 139.234 56"
+   xml:space="preserve"
+   sodipodi:docname="电机补充-11.svg"><metadata
+   id="metadata43"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs41" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview39" />
+<g
+   id="g36">
+	
+		<polygon
+   fill="#999999"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   154.934,272.001 154.934,278.293 145.446,278.293 145.446,310.46 154.934,310.46 154.934,316.751 170.087,316.751 170.087,272.001     "
+   id="polygon2" />
+	
+		<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="252.7739"
+   y1="22.7346"
+   x2="252.7739"
+   y2="78.2346"
+   gradientTransform="matrix(1 0 0 -1 8.3398 344.8599)">
+		<stop
+   offset="0"
+   style="stop-color:#7E7876"
+   id="stop4" />
+		<stop
+   offset="0.2512"
+   style="stop-color:#D2D0CF"
+   id="stop6" />
+		<stop
+   offset="0.5"
+   style="stop-color:#EDEDED"
+   id="stop8" />
+		<stop
+   offset="0.7438"
+   style="stop-color:#D2D0CF"
+   id="stop10" />
+		<stop
+   offset="1"
+   style="stop-color:#7E7876"
+   id="stop12" />
+	</linearGradient>
+	
+		<rect
+   x="258.206"
+   y="266.626"
+   fill="url(#SVGID_1_)"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   width="5.816"
+   height="55.5"
+   id="rect15" />
+	
+		<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="205.8052"
+   y1="26.2346"
+   x2="205.8052"
+   y2="74.7346"
+   gradientTransform="matrix(1 0 0 -1 8.3398 344.8599)">
+		<stop
+   offset="0"
+   style="stop-color:#7E7876"
+   id="stop17" />
+		<stop
+   offset="0.2512"
+   style="stop-color:#D2D0CF"
+   id="stop19" />
+		<stop
+   offset="0.5"
+   style="stop-color:#EDEDED"
+   id="stop21" />
+		<stop
+   offset="0.7438"
+   style="stop-color:#D2D0CF"
+   id="stop23" />
+		<stop
+   offset="1"
+   style="stop-color:#7E7876"
+   id="stop25" />
+	</linearGradient>
+	
+		<rect
+   x="170.087"
+   y="270.126"
+   fill="url(#SVGID_2_)"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   width="88.117"
+   height="48.5"
+   id="rect28" />
+	<polygon
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   164.592,276.001 164.592,278.717 160.139,278.717 160.139,286.755 164.592,286.755 164.592,289.471 170.087,289.471    170.087,276.001  "
+   id="polygon30" />
+	<polygon
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   164.592,312.751 164.592,310.036 160.139,310.036 160.139,301.998 164.592,301.998 164.592,299.282 170.087,299.282    170.087,312.751  "
+   id="polygon32" />
+	
+		<rect
+   x="264.022"
+   y="292.376"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   width="20.158"
+   height="4"
+   id="rect34" />
+</g>
+</svg>

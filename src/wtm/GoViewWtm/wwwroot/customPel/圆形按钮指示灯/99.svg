@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="45px"
+   height="45px"
+   viewBox="0 0 45 45"
+   enable-background="new 0 0 45 45"
+   xml:space="preserve"
+   sodipodi:docname="圆形按钮指示灯_79-01.svg"><metadata
+   id="metadata30"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs28" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview26" />
+<g
+   id="g23">
+	<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="0"
+   y1="22.5"
+   x2="45"
+   y2="22.5">
+		<stop
+   offset="0"
+   style="stop-color:#5E5E5E"
+   id="stop2" />
+		<stop
+   offset="1"
+   style="stop-color:#000000"
+   id="stop4" />
+		<a:midPointStop
+   offset="0"
+   style="stop-color:#5E5E5E" />
+		<a:midPointStop
+   offset="0.5"
+   style="stop-color:#5E5E5E" />
+		<a:midPointStop
+   offset="1"
+   style="stop-color:#000000" />
+	</linearGradient>
+	<circle
+   fill="url(#SVGID_1_)"
+   cx="22.5"
+   cy="22.5"
+   r="22.5"
+   id="circle7" />
+	
+		<radialGradient
+   id="SVGID_2_"
+   cx="-119.2808"
+   cy="186.0527"
+   r="18.8311"
+   gradientTransform="matrix(1.0427 0 0 1.0426 146.8727 -171.4764)"
+   gradientUnits="userSpaceOnUse">
+		<stop
+   offset="0"
+   style="stop-color:#ED1C24"
+   id="stop9" />
+		<stop
+   offset="1"
+   style="stop-color:#961C24"
+   id="stop11" />
+		<a:midPointStop
+   offset="0"
+   style="stop-color:#ED1C24" />
+		<a:midPointStop
+   offset="0.5"
+   style="stop-color:#ED1C24" />
+		<a:midPointStop
+   offset="1"
+   style="stop-color:#961C24" />
+	</radialGradient>
+	<path
+   fill="url(#SVGID_2_)"
+   d="M22.497,42.133c-10.828,0-19.632-8.808-19.632-19.633S11.668,2.867,22.497,2.867   c10.824,0,19.638,8.808,19.638,19.633S33.32,42.133,22.497,42.133z"
+   id="path14" />
+	<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="22.4976"
+   y1="18.3076"
+   x2="22.4976"
+   y2="4.204">
+		<stop
+   offset="0"
+   style="stop-color:#F50000"
+   id="stop16" />
+		<stop
+   offset="1"
+   style="stop-color:#FFFFFF"
+   id="stop18" />
+		<a:midPointStop
+   offset="0"
+   style="stop-color:#F50000" />
+		<a:midPointStop
+   offset="0.5"
+   style="stop-color:#F50000" />
+		<a:midPointStop
+   offset="1"
+   style="stop-color:#FFFFFF" />
+	</linearGradient>
+	<ellipse
+   fill="url(#SVGID_3_)"
+   cx="22.497"
+   cy="12.684"
+   rx="11.028"
+   ry="7.027"
+   id="ellipse21" />
+</g>
+</svg>

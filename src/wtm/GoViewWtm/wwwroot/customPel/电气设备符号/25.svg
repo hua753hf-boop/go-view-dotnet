@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="65.581px"
+   height="46.633px"
+   viewBox="32.637 460.816 65.581 46.633"
+   enable-background="new 32.637 460.816 65.581 46.633"
+   xml:space="preserve"
+   sodipodi:docname="01-25.svg"><metadata
+   id="metadata17"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs15" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview13" />
+<g
+   id="g10">
+	<path
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M43.729,491.958   c3.196,8.89,11.706,15.24,21.699,15.24c9.992,0,18.502-6.352,21.698-15.24"
+   id="path2" />
+	<path
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M43.729,476.306   c3.196-8.881,11.706-15.24,21.699-15.24c9.992,0,18.502,6.359,21.698,15.24"
+   id="path4" />
+	<path
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M43.729,476.306   c-0.89,2.446-1.368,5.083-1.368,7.826c0,2.742,0.479,5.38,1.368,7.825H32.887v-15.651H43.729L43.729,476.306z"
+   id="path6" />
+	<path
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M97.968,476.306v15.652H87.126   c0.89-2.446,1.368-5.084,1.368-7.826c0-2.743-0.479-5.38-1.368-7.826H97.968L97.968,476.306z"
+   id="path8" />
+</g>
+</svg>

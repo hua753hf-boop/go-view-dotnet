@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 28.1 48.2"
+   style="enable-background:new 0 0 28.1 48.2;"
+   xml:space="preserve"
+   sodipodi:docname="空气净化器_001.svg"><metadata
+   id="metadata15"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs13" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview11" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#1296DB;}
+</style>
+<title
+   id="title4">资源 1</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_1-2">
+		<path
+   class="st0"
+   d="M27.5,14.4l-10.5,9.7l10.5,9.7c0.8,0.7,0.8,1.8,0.2,2.6c-0.1,0.1-0.1,0.1-0.2,0.2l-9.7,9l-0.7,0.7l-1.5,1.4    c-0.8,0.8-2.2,0.8-3,0c-0.5-0.4-0.7-1.1-0.6-1.7c0-0.1-0.1-0.2-0.1-0.3V28.8l-6.1,5.7l-0.7,0.7l-1.5,1.4c-0.8,0.8-2.2,0.8-3,0    c-0.8-0.7-0.8-1.8-0.2-2.6c0.1-0.1,0.1-0.1,0.2-0.2l1.5-1.4l0.7-0.7l8.2-7.6l-9-8.3l-1.5-1.4c-0.8-0.7-0.8-1.9-0.1-2.6    c0,0,0.1-0.1,0.1-0.1c0.9-0.8,2.1-0.8,3,0L5.1,13l6.9,6.4V2.6c0-0.1,0-0.2,0.1-0.3c-0.1-0.6,0.1-1.3,0.6-1.7c0.9-0.8,2.1-0.8,3,0    l12,11.1c0.7,0.7,0.8,1.9,0.1,2.6C27.6,14.3,27.6,14.4,27.5,14.4z M23,35.2l-6.9-6.3v12.7L23,35.2z M16.2,6.7v12.7L23,13L16.2,6.7    z"
+   id="path6" />
+	</g>
+</g>
+</svg>

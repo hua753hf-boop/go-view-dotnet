@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 59.3 50"
+   style="enable-background:new 0 0 59.3 50;"
+   xml:space="preserve"
+   sodipodi:docname="空调_265.svg"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs19" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview17" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#1296DB;}
+</style>
+<title
+   id="title4">资源 265</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_1-2">
+		<path
+   class="st0"
+   d="M55.5,50V0h3.9v50H55.5z"
+   id="path6" />
+		<path
+   class="st0"
+   d="M19.9,44.4c0,0,4.2-3.8,9.3-3.9s10.2,3.9,10.2,3.9h12.1v-3.9H40.8c-3.3-2.4-7.3-3.8-11.5-3.9    c-3.9-0.1-7.7,1.3-10.6,3.9h-6.4v-3.8L0,42.4l12.3,5.7v-3.8H19.9z"
+   id="path8" />
+		<path
+   class="st0"
+   d="M19.9,27c0,0,4.2-3.8,9.3-3.9S39.4,27,39.4,27h12.1v-3.9H40.8c-3.3-2.4-7.3-3.8-11.5-3.9    c-3.9-0.1-7.7,1.3-10.6,3.9h-6.4v-3.7L0,25l12.3,5.7V27H19.9z"
+   id="path10" />
+		<path
+   class="st0"
+   d="M19.9,10.7c0,0,4.2-3.8,9.3-3.9s10.2,3.9,10.2,3.9h12.1V6.8H40.8C37.4,4.4,33.4,3.1,29.3,3    c-3.9-0.1-7.7,1.2-10.6,3.8h-6.4V3.1L0,8.7l12.3,5.7v-3.7H19.9z"
+   id="path12" />
+	</g>
+</g>
+</svg>

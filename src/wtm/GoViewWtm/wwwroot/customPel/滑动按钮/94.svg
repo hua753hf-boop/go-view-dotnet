@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 96.4 40"
+   style="enable-background:new 0 0 96.4 40;"
+   xml:space="preserve"
+   sodipodi:docname="推钮二_51.svg"><metadata
+   id="metadata100"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs98" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview96" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:url(#SVGID_5_);}
+</style>
+<title
+   id="title4">资源 51</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_1-2">
+		
+			<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="0"
+   y1="770"
+   x2="96.4"
+   y2="770"
+   gradientTransform="matrix(1 0 0 1 0 -750)">
+			<stop
+   offset="1.000000e-02"
+   style="stop-color:#F1F0F1"
+   id="stop6" />
+			<stop
+   offset="0.32"
+   style="stop-color:#E5E5E5"
+   id="stop8" />
+			<stop
+   offset="0.77"
+   style="stop-color:#CECECE"
+   id="stop10" />
+		</linearGradient>
+		<path
+   class="st0"
+   d="M76.4,40H20C9,40,0,31,0,20l0,0C0,9,9,0,20,0h56.4c11,0,20,9,20,20l0,0C96.4,31,87.5,40,76.4,40z"
+   id="path13" />
+		
+			<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="48.25"
+   y1="751.74"
+   x2="48.25"
+   y2="788.15"
+   gradientTransform="matrix(1 0 0 1 0 -750)">
+			<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop15" />
+			<stop
+   offset="3.000000e-02"
+   style="stop-color:#EBEBEB"
+   id="stop17" />
+			<stop
+   offset="4.000000e-02"
+   style="stop-color:#DEDEDE"
+   id="stop19" />
+			<stop
+   offset="8.000000e-02"
+   style="stop-color:#A5A5A5"
+   id="stop21" />
+			<stop
+   offset="0.11"
+   style="stop-color:#828282"
+   id="stop23" />
+			<stop
+   offset="0.13"
+   style="stop-color:#757575"
+   id="stop25" />
+			<stop
+   offset="0.16"
+   style="stop-color:#858585"
+   id="stop27" />
+			<stop
+   offset="0.24"
+   style="stop-color:#AFAFAF"
+   id="stop29" />
+			<stop
+   offset="0.32"
+   style="stop-color:#EBEBEB"
+   id="stop31" />
+			<stop
+   offset="0.36"
+   style="stop-color:#F2F2F2"
+   id="stop33" />
+			<stop
+   offset="0.44"
+   style="stop-color:#FFFFFF"
+   id="stop35" />
+			<stop
+   offset="0.69"
+   style="stop-color:#EBEBEB"
+   id="stop37" />
+			<stop
+   offset="0.69"
+   style="stop-color:#E6E6E6"
+   id="stop39" />
+			<stop
+   offset="0.74"
+   style="stop-color:#B6B6B6"
+   id="stop41" />
+			<stop
+   offset="0.79"
+   style="stop-color:#949494"
+   id="stop43" />
+			<stop
+   offset="0.82"
+   style="stop-color:#7F7F7F"
+   id="stop45" />
+			<stop
+   offset="0.85"
+   style="stop-color:#777777"
+   id="stop47" />
+			<stop
+   offset="0.87"
+   style="stop-color:#7B7B7B"
+   id="stop49" />
+			<stop
+   offset="0.89"
+   style="stop-color:#868686"
+   id="stop51" />
+			<stop
+   offset="0.91"
+   style="stop-color:#999999"
+   id="stop53" />
+			<stop
+   offset="0.93"
+   style="stop-color:#B3B3B3"
+   id="stop55" />
+			<stop
+   offset="0.95"
+   style="stop-color:#D5D5D5"
+   id="stop57" />
+			<stop
+   offset="0.96"
+   style="stop-color:#EBEBEB"
+   id="stop59" />
+			<stop
+   offset="0.97"
+   style="stop-color:#F2F2F2"
+   id="stop61" />
+			<stop
+   offset="1"
+   style="stop-color:#FFFFFF"
+   id="stop63" />
+		</linearGradient>
+		<path
+   class="st1"
+   d="M76.4,38.1H20C10,38,2,30,2,20l0,0c0-9.9,8.1-18,18-18h56.4c10,0,18,8,18.1,18l0,0    C94.5,30,86.4,38.1,76.4,38.1L76.4,38.1z"
+   id="path66" />
+		
+			<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="20.2387"
+   y1="796.1356"
+   x2="76.1927"
+   y2="743.9684"
+   gradientTransform="matrix(1 0 0 1 0 -750)">
+			<stop
+   offset="0"
+   style="stop-color:#FF6969"
+   id="stop68" />
+			<stop
+   offset="0.37"
+   style="stop-color:#C05978"
+   id="stop70" />
+			<stop
+   offset="1"
+   style="stop-color:#563E90"
+   id="stop72" />
+		</linearGradient>
+		<path
+   class="st2"
+   d="M76.4,37.7H20c-9.7,0-17.6-7.9-17.6-17.7l0,0l0,0c0-9.7,7.9-17.6,17.6-17.6h56.4c9.7,0,17.6,7.9,17.7,17.6    l0,0C94.1,29.7,86.2,37.7,76.4,37.7L76.4,37.7z"
+   id="path75" />
+		
+			<linearGradient
+   id="SVGID_4_"
+   gradientUnits="userSpaceOnUse"
+   x1="61.5917"
+   y1="755.3783"
+   x2="89.7217"
+   y2="783.4983"
+   gradientTransform="matrix(1 0 0 1 0 -750)">
+			<stop
+   offset="0"
+   style="stop-color:#CED2D2"
+   id="stop77" />
+			<stop
+   offset="1"
+   style="stop-color:#F1F1F0"
+   id="stop79" />
+		</linearGradient>
+		<path
+   class="st3"
+   d="M92.6,20c0,9-7.3,16.4-16.3,16.4s-16.4-7.3-16.4-16.3S67.2,3.7,76.2,3.7l0,0C85.3,3.7,92.6,11,92.6,20z"
+   id="path82" />
+		
+			<linearGradient
+   id="SVGID_5_"
+   gradientUnits="userSpaceOnUse"
+   x1="60.9596"
+   y1="770.0043"
+   x2="91.5596"
+   y2="770.0043"
+   gradientTransform="matrix(1 0 0 1 -4.000527e-03 -750.0043)">
+			<stop
+   offset="1.000000e-02"
+   style="stop-color:#F1F0F1"
+   id="stop84" />
+			<stop
+   offset="0.32"
+   style="stop-color:#E5E5E5"
+   id="stop86" />
+			<stop
+   offset="0.77"
+   style="stop-color:#CECECE"
+   id="stop88" />
+		</linearGradient>
+		<circle
+   class="st4"
+   cx="76.3"
+   cy="20"
+   r="15.3"
+   id="circle91" />
+	</g>
+</g>
+</svg>

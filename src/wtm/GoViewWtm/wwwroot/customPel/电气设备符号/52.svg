@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="72.872px"
+   height="72.873px"
+   viewBox="133.244 796.809 72.872 72.873"
+   enable-background="new 133.244 796.809 72.872 72.873"
+   xml:space="preserve"
+   sodipodi:docname="01-52.svg"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs19" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview17" />
+<g
+   id="g14">
+	
+		<rect
+   x="144.166"
+   y="807.732"
+   transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 878.8624 1302.447)"
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   width="51.03"
+   height="51.028"
+   id="rect2" />
+	<g
+   id="g12">
+		<circle
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   cx="144.69"
+   cy="833.488"
+   r="2.968"
+   id="circle4" />
+		<circle
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   cx="194.669"
+   cy="833.34"
+   r="2.968"
+   id="circle6" />
+		<polyline
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   points="194.555,844.463 188.006,842.933     147.656,833.522   "
+   id="polyline8" />
+		<polygon
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   points="147.658,833.522 186.846,848.106     188.006,842.935   "
+   id="polygon10" />
+	</g>
+</g>
+</svg>

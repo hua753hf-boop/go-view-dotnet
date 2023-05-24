@@ -1,0 +1,9 @@
+﻿@model GoViewWtm.ViewModel.Asset.StaticFileVMs.StaticFileListVM
+@using WalkingTec.Mvvm.Core;
+@{
+    var tree = (List<TreeSelectListItem>)ViewBag.Tree;
+}
+
+<wt:treecontainer items="@tree"  id-field="Searcher.Type">
+    <wt:grid vm="@Model" url="/Asset/StaticFile/Search" />
+</wt:treecontainer>

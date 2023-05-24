@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="96.819px"
+   height="67.359px"
+   viewBox="111.037 1070.834 96.819 67.359"
+   enable-background="new 111.037 1070.834 96.819 67.359"
+   xml:space="preserve"
+   sodipodi:docname="简易传送机-49.svg"><metadata
+   id="metadata9"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs7" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview5" />
+<path
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   d="  M207.606,1071.565l-7.079,7.08l-7.46,7.459l-7.461,7.461l-44.38,44.379l-29.939-29.939l36.92-36.92l0.479,0.48H207.606  L207.606,1071.565z M118.369,1100.926l29.938,29.938 M155.768,1123.403l-29.938-29.939 M133.289,1086.006l29.938,29.938   M170.688,1108.483l-29.938-29.939 M148.207,1071.084l0.479,0.48l29.46,29.459 M185.606,1093.565l-22-22 M193.067,1086.104  l-14.54-14.539 M193.447,1071.565l7.08,7.08"
+   id="path2" />
+</svg>

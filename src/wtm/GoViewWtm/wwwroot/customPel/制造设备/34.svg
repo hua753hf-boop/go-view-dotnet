@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="88.133px"
+   height="66.877px"
+   viewBox="254.704 800.223 88.133 66.877"
+   enable-background="new 254.704 800.223 88.133 66.877"
+   xml:space="preserve"
+   sodipodi:docname="01-34.svg"><metadata
+   id="metadata19"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs17" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview15" />
+<g
+   id="g12">
+	
+		<path
+   fill="#40EDFF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   d="   M260.664,840.036c3.59,4.25,8.649,7.229,14.39,8.181v-5.71l28.95,4.01l14.55,2.021v-48.061h-43.5v0.32   c-11.4,1.88-20.1,11.779-20.1,23.71c0,2.96,0.54,5.8,1.52,8.42l0.01,0.01"
+   id="path2" />
+	
+		<circle
+   fill="#40EDFF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="318.554"
+   cy="824.506"
+   r="24.033"
+   id="circle4" />
+	
+		<circle
+   fill="#40EDFF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="318.554"
+   cy="824.506"
+   r="15.533"
+   id="circle6" />
+	
+		<circle
+   fill="#40EDFF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="318.554"
+   cy="824.506"
+   r="9.033"
+   id="circle8" />
+	
+		<polyline
+   fill="#40EDFF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   296.224,833.35 316.007,866.85 276.44,866.85 256.472,832.928  "
+   id="polyline10" />
+</g>
+</svg>

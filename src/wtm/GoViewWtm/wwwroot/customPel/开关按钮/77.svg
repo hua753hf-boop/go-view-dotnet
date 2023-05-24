@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="151px"
+   height="24px"
+   viewBox="0 0 151 24"
+   enable-background="new 0 0 151 24"
+   xml:space="preserve"
+   sodipodi:docname="开关按钮 _vA1-77-01.svg"><metadata
+   id="metadata85"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs83" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview81" />
+<switch
+   id="switch78">
+	<foreignObject
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1">
+		
+	</foreignObject>
+	<g
+   i:extraneous="self"
+   id="g76">
+		<g
+   id="g74">
+			
+				<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="365.5"
+   y1="-322"
+   x2="365.5"
+   y2="-346"
+   gradientTransform="matrix(1 0 0 -1 -290 -322)">
+				<stop
+   offset="0"
+   style="stop-color:#DEDEDE"
+   id="stop2" />
+				<stop
+   offset="1"
+   style="stop-color:#CFCFCF"
+   id="stop4" />
+				<a:midPointStop
+   offset="0"
+   style="stop-color:#DEDEDE" />
+				<a:midPointStop
+   offset="0.5"
+   style="stop-color:#DEDEDE" />
+				<a:midPointStop
+   offset="1"
+   style="stop-color:#CFCFCF" />
+			</linearGradient>
+			<rect
+   fill="url(#SVGID_1_)"
+   width="151"
+   height="24"
+   id="rect7" />
+			<polygon
+   fill="#FCFCFC"
+   points="150.319,23.516 0.679,23.516 0.679,0.484 150.319,0.484    "
+   id="polygon9" />
+			<g
+   id="g18">
+				
+					<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="365.499"
+   y1="-318.2422"
+   x2="365.499"
+   y2="-367.8178"
+   gradientTransform="matrix(1 0 0 -1 -290 -322)">
+					<stop
+   offset="0"
+   style="stop-color:#FEFEFE"
+   id="stop11" />
+					<stop
+   offset="1"
+   style="stop-color:#CFCFCF"
+   id="stop13" />
+					<a:midPointStop
+   offset="0"
+   style="stop-color:#FEFEFE" />
+					<a:midPointStop
+   offset="0.5"
+   style="stop-color:#FEFEFE" />
+					<a:midPointStop
+   offset="1"
+   style="stop-color:#CFCFCF" />
+				</linearGradient>
+				<path
+   fill="url(#SVGID_2_)"
+   d="M150.319,0.484h-43.257C56.084,4.662,18.594,14.234,0.679,17.254v6.261h149.641V0.484z"
+   id="path16" />
+			</g>
+			
+				<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="292.376"
+   y1="-333.9995"
+   x2="438.624"
+   y2="-333.9995"
+   gradientTransform="matrix(1 0 0 -1 -290 -322)">
+				<stop
+   offset="0"
+   style="stop-color:#FEFEFE"
+   id="stop20" />
+				<stop
+   offset="0.5495"
+   style="stop-color:#E4E4E4"
+   id="stop22" />
+				<stop
+   offset="1"
+   style="stop-color:#FFFFFF"
+   id="stop24" />
+				<a:midPointStop
+   offset="0"
+   style="stop-color:#FEFEFE" />
+				<a:midPointStop
+   offset="0.5"
+   style="stop-color:#FEFEFE" />
+				<a:midPointStop
+   offset="0.5495"
+   style="stop-color:#E4E4E4" />
+				<a:midPointStop
+   offset="0.5"
+   style="stop-color:#E4E4E4" />
+				<a:midPointStop
+   offset="1"
+   style="stop-color:#FFFFFF" />
+			</linearGradient>
+			<polygon
+   fill="url(#SVGID_3_)"
+   a:adobe-blending-mode="lighten"
+   enable-background="new    "
+   points="148.624,22.303      2.376,22.303 2.376,1.696 148.624,1.696    "
+   id="polygon27" />
+			
+				<linearGradient
+   id="SVGID_4_"
+   gradientUnits="userSpaceOnUse"
+   x1="329.0967"
+   y1="-343.7373"
+   x2="413.7154"
+   y2="-343.7373"
+   gradientTransform="matrix(1 0 0 -1 -290 -322)">
+				<stop
+   offset="0"
+   style="stop-color:#F2F2F2"
+   id="stop29" />
+				<stop
+   offset="0.533"
+   style="stop-color:#FFFFFF"
+   id="stop31" />
+				<stop
+   offset="1"
+   style="stop-color:#F6F6F6"
+   id="stop33" />
+				<a:midPointStop
+   offset="0"
+   style="stop-color:#F2F2F2" />
+				<a:midPointStop
+   offset="0.5"
+   style="stop-color:#F2F2F2" />
+				<a:midPointStop
+   offset="0.533"
+   style="stop-color:#FFFFFF" />
+				<a:midPointStop
+   offset="0.5"
+   style="stop-color:#FFFFFF" />
+				<a:midPointStop
+   offset="1"
+   style="stop-color:#F6F6F6" />
+			</linearGradient>
+			<rect
+   x="39.097"
+   y="21.414"
+   fill="url(#SVGID_4_)"
+   width="84.344"
+   height="0.646"
+   id="rect36" />
+			
+				<linearGradient
+   id="SVGID_5_"
+   gradientUnits="userSpaceOnUse"
+   x1="425.2012"
+   y1="-342.2314"
+   x2="428.9975"
+   y2="-325.6659"
+   gradientTransform="matrix(1 0 0 -1 -290 -322)">
+				<stop
+   offset="0"
+   style="stop-color:#B50500"
+   id="stop38" />
+				<stop
+   offset="1"
+   style="stop-color:#FF0000"
+   id="stop40" />
+				<a:midPointStop
+   offset="0"
+   style="stop-color:#B50500" />
+				<a:midPointStop
+   offset="0.5"
+   style="stop-color:#B50500" />
+				<a:midPointStop
+   offset="1"
+   style="stop-color:#FF0000" />
+			</linearGradient>
+			<rect
+   x="127.036"
+   y="3.211"
+   fill="url(#SVGID_5_)"
+   width="20.24"
+   height="16.976"
+   id="rect43" />
+			<g
+   id="g52">
+				
+					<linearGradient
+   id="SVGID_6_"
+   gradientUnits="userSpaceOnUse"
+   x1="434.9512"
+   y1="-324.7139"
+   x2="416.6877"
+   y2="-333.7586"
+   gradientTransform="matrix(1 0 0 -1 -290 -322)">
+					<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop45" />
+					<stop
+   offset="1"
+   style="stop-color:#DB0000"
+   id="stop47" />
+					<a:midPointStop
+   offset="0"
+   style="stop-color:#FFFFFF" />
+					<a:midPointStop
+   offset="0.5"
+   style="stop-color:#FFFFFF" />
+					<a:midPointStop
+   offset="1"
+   style="stop-color:#DB0000" />
+				</linearGradient>
+				<path
+   fill="url(#SVGID_6_)"
+   d="M140.327,7.913c2.23,0,4.345,0.481,6.252,1.337V3.898h-18.846V14.59      C130.436,10.568,135.067,7.913,140.327,7.913z"
+   id="path50" />
+			</g>
+			<g
+   id="g62">
+				<g
+   id="g56">
+					<path
+   fill="#870500"
+   d="M132.24,12.008c0-2.919,2.399-5.283,5.358-5.285l0,0c2.961,0.002,5.359,2.366,5.361,5.285l0,0       c-0.002,2.919-2.4,5.283-5.361,5.284l0,0C134.641,17.291,132.24,14.927,132.24,12.008L132.24,12.008z M134.424,8.874       c-0.815,0.804-1.319,1.909-1.319,3.134l0,0c0,1.227,0.504,2.33,1.319,3.133l0,0c0.813,0.804,1.935,1.298,3.176,1.298l0,0       c1.244,0,2.364-0.494,3.176-1.298l0,0c0.817-0.803,1.319-1.906,1.319-3.133l0,0c0-1.225-0.502-2.33-1.319-3.134l0,0       c-0.812-0.802-1.932-1.297-3.176-1.297l0,0C136.358,7.577,135.238,8.072,134.424,8.874L134.424,8.874z"
+   id="path54" />
+				</g>
+				<g
+   id="g60">
+					<polygon
+   fill="#870500"
+   points="139.521,11.237 139.521,8.72 135.678,8.72 135.678,11.237 134.141,11.237 137.6,15.295        141.059,11.237      "
+   id="polygon58" />
+				</g>
+			</g>
+			<g
+   id="g72">
+				<g
+   id="g66">
+					<path
+   fill="#FFFFFF"
+   d="M132.537,12.008c0-2.919,2.396-5.283,5.358-5.285l0,0c2.961,0.002,5.356,2.366,5.356,5.285l0,0       c0,2.919-2.396,5.283-5.356,5.284l0,0C134.935,17.291,132.537,14.927,132.537,12.008L132.537,12.008z M134.718,8.874       c-0.813,0.804-1.316,1.909-1.316,3.134l0,0c0,1.227,0.503,2.33,1.316,3.133l0,0c0.815,0.804,1.936,1.298,3.179,1.298l0,0       c1.242,0,2.362-0.494,3.177-1.298l0,0c0.813-0.803,1.315-1.906,1.315-3.133l0,0c0-1.225-0.503-2.33-1.315-3.134l0,0       c-0.813-0.802-1.935-1.297-3.177-1.297l0,0C136.654,7.577,135.533,8.072,134.718,8.874L134.718,8.874z"
+   id="path64" />
+				</g>
+				<g
+   id="g70">
+					<polygon
+   fill="#FFFFFF"
+   points="139.817,11.237 139.817,8.72 135.975,8.72 135.975,11.237 134.436,11.237 137.896,15.295        141.355,11.237      "
+   id="polygon68" />
+				</g>
+			</g>
+		</g>
+	</g>
+</switch>
+
+</svg>

@@ -12,7 +12,7 @@
 
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.10" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
     <PackageReference Include="WalkingTec.Mvvm.TagHelpers.LayUI" Version="6.3.7" />
     <PackageReference Include="WalkingTec.Mvvm.Mvc" Version="6.3.7" />
 </ItemGroup>

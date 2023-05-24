@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="86.561px"
+   height="41.146px"
+   viewBox="479.549 383.908 86.561 41.146"
+   enable-background="new 479.549 383.908 86.561 41.146"
+   xml:space="preserve"
+   sodipodi:docname="01-23.svg"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs19" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview17" />
+<g
+   id="g14">
+	<g
+   id="g6">
+		
+			<rect
+   x="479.799"
+   y="393.889"
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   width="23.334"
+   height="1.684"
+   id="rect2" />
+		
+			<rect
+   x="479.799"
+   y="413.389"
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   width="23.334"
+   height="1.687"
+   id="rect4" />
+	</g>
+	<path
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M511.467,424.804c14.911,0,27-9.099,27-20.322   c0-11.225-12.089-20.322-27-20.322h-8.334v40.646L511.467,424.804L511.467,424.804z"
+   id="path8" />
+	<path
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M511.467,384.158h-1.813   c14.912,0,27,9.099,27,20.322c0,11.225-12.088,20.322-27,20.322h1.813c14.911,0,27-9.099,27-20.322   S526.378,384.158,511.467,384.158z"
+   id="path10" />
+	<rect
+   x="538.467"
+   y="403.47"
+   fill="#231815"
+   width="27.643"
+   height="2.023"
+   id="rect12" />
+</g>
+</svg>

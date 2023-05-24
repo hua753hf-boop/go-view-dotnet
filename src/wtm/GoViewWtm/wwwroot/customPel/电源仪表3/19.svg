@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 45.5 45.5"
+   style="enable-background:new 0 0 45.5 45.5;"
+   xml:space="preserve"
+   sodipodi:docname="UPS电源_219.svg"><metadata
+   id="metadata15"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs13" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview11" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#1296DB;}
+</style>
+<title
+   id="title4">资源 219</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_2-2">
+		<path
+   class="st0"
+   d="M39,0c-2.3,0-4.5,1.2-5.6,3.3H3.3C1.5,3.3,0,4.7,0,6.6c0,0,0,0,0,0l0,0v35.6c0,1.8,1.5,3.3,3.3,3.3    c0,0,0,0,0,0h35.6c1.8,0,3.3-1.5,3.3-3.3v0V12.1c3.1-1.8,4.2-5.8,2.4-8.9C43.4,1.2,41.3,0,39,0z M38.6,41.9h-35v-35h28.9    c0.2,3.3,2.8,5.9,6.1,6.1V41.9z M39.6,10.5h-1.3V9.3h1.2L39.6,10.5z M39.5,8.3h-1l-0.2-5.7h1.4L39.5,8.3z M35.3,38.3h-6.9l-2-6    H15.8l-2,6H7l10.3-27.8h7.5L35.3,38.3z M25.3,27.5l-4.1-11.7l-4,11.7L25.3,27.5z"
+   id="path6" />
+	</g>
+</g>
+</svg>

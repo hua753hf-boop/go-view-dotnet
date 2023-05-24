@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 34.5 45.5"
+   style="enable-background:new 0 0 34.5 45.5;"
+   xml:space="preserve"
+   sodipodi:docname="咖啡机_146.svg"><metadata
+   id="metadata15"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs13" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview11" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#1296DB;}
+</style>
+<title
+   id="title4">资源 146</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_2-2">
+		<path
+   class="st0"
+   d="M7,45.5H2.8c-1.5,0-2.8-1.2-2.8-2.7c0,0,0-0.1,0-0.1V2.8C0,1.3,1.2,0,2.7,0c0,0,0.1,0,0.1,0H7    c1.5,0,2.8,1.2,2.9,2.7c0,0,0,0.1,0,0.1v39.8c0,1.5-1.2,2.8-2.8,2.8C7.1,45.5,7,45.5,7,45.5z M31.6,45.5h-4.2    c-1.5,0-2.8-1.2-2.8-2.7c0,0,0-0.1,0-0.1V2.8c0-1.5,1.2-2.8,2.7-2.8c0,0,0.1,0,0.1,0h4.2c1.5,0,2.8,1.2,2.8,2.7c0,0,0,0.1,0,0.1    v39.8c0,1.5-1.2,2.8-2.7,2.8C31.7,45.5,31.7,45.5,31.6,45.5L31.6,45.5z"
+   id="path6" />
+	</g>
+</g>
+</svg>

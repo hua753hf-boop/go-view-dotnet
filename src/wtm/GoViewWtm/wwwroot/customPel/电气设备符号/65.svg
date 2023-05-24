@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="40.166px"
+   height="78.251px"
+   viewBox="224.629 971.934 40.166 78.251"
+   enable-background="new 224.629 971.934 40.166 78.251"
+   xml:space="preserve"
+   sodipodi:docname="01-65.svg"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs19" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview17" />
+<g
+   id="g14">
+	
+		<ellipse
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="244.712"
+   cy="995.35"
+   rx="9.5"
+   ry="9.832"
+   id="ellipse2" />
+	
+		<ellipse
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="244.712"
+   cy="995.35"
+   rx="19.833"
+   ry="23.166"
+   id="ellipse4" />
+	
+		<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   x1="244.712"
+   y1="1018.516"
+   x2="244.712"
+   y2="1041.185"
+   id="line6" />
+	<g
+   id="g12">
+		
+			<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   x1="225.878"
+   y1="1041.185"
+   x2="263.545"
+   y2="1041.185"
+   id="line8" />
+		
+			<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   x1="232.47"
+   y1="1050.185"
+   x2="256.953"
+   y2="1050.185"
+   id="line10" />
+	</g>
+</g>
+</svg>

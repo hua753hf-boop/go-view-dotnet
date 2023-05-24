@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="70.931px"
+   height="74.889px"
+   viewBox="213.207 537.035 70.931 74.889"
+   enable-background="new 213.207 537.035 70.931 74.889"
+   xml:space="preserve"
+   sodipodi:docname="01-34.svg"><metadata
+   id="metadata31"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs29" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview27" />
+<g
+   id="g24">
+	
+		<ellipse
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   cx="247.527"
+   cy="583.008"
+   rx="24.397"
+   ry="28.666"
+   id="ellipse2" />
+	
+		<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="213.207"
+   y1="583.008"
+   x2="281.848"
+   y2="583.008"
+   id="line4" />
+	<g
+   id="g10">
+		<polygon
+   fill="#231815"
+   points="242.936,576.578 251.204,583.008 242.936,589.437   "
+   id="polygon6" />
+		<rect
+   x="251.204"
+   y="576.318"
+   fill="#231815"
+   width="0.915"
+   height="13.379"
+   id="rect8" />
+	</g>
+	<g
+   id="g16">
+		
+			<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="266.535"
+   y1="541.124"
+   x2="252.585"
+   y2="555.085"
+   id="line12" />
+		<polygon
+   fill="#231815"
+   points="264.722,539.313 270.633,537.035 268.355,542.947   "
+   id="polygon14" />
+	</g>
+	<g
+   id="g22">
+		
+			<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="280.045"
+   y1="554.636"
+   x2="267.734"
+   y2="566.945"
+   id="line18" />
+		<polygon
+   fill="#231815"
+   points="278.227,552.818 284.138,550.54 281.86,556.451   "
+   id="polygon20" />
+	</g>
+</g>
+</svg>

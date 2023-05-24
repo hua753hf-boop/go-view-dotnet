@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using System.Threading.Tasks;
+using GoViewWtm.Model.Asset;
 using GoViewWtm.Model.GoViewModel;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
@@ -12,6 +13,10 @@ namespace GoViewWtm.DataAccess
         public DbSet<FrameworkUser> FrameworkUsers { get; set; }
 
         public DbSet<GoviewProject> GoviewProjects { get; set; }
+
+        public DbSet<AssetType> AssetTypes { get; set; }
+
+        public DbSet<AssetManagement> AssetManagements { get; set; }
 
         public DbSet<GoviewProjectData> GoviewProjectDatas { get; set; }
         public DataContext(CS cs)

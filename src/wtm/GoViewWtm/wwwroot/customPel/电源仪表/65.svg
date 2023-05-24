@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 53.5 47.5"
+   style="enable-background:new 0 0 53.5 47.5;"
+   xml:space="preserve"
+   sodipodi:docname="UPS电源_065.svg"><metadata
+   id="metadata15"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs13" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview11" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#1296DB;}
+</style>
+<title
+   id="title4">资源 65</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_2-2">
+		<path
+   class="st0"
+   d="M52.4,4.4h-2.7c-0.6,0-1.2-0.5-1.4-1.1l-0.6-2.3c-0.2-0.6-0.8-1-1.4-1.1h-3c-0.6,0-1.2,0.5-1.4,1.1l-0.6,2.3    c-0.2,0.6-0.8,1-1.4,1.1H13.7c-0.6,0-1.2-0.5-1.4-1.1l-0.6-2.3c-0.2-0.6-0.8-1-1.4-1.1h-3C6.6,0,6.1,0.4,5.9,1.1L5.3,3.3    C5.1,4,4.5,4.4,3.8,4.4H1.1C0.5,4.4,0,4.9,0,5.5c0,0,0,0,0,0v2.1c0,0.6,0.5,1.1,1.1,1.1c0,0,0,0,0,0h51.3c0.6,0,1.1-0.5,1.1-1.1    c0,0,0,0,0,0V5.5C53.5,4.9,53,4.4,52.4,4.4z M52.4,43.2h-0.6c-0.6,0-1.1-0.5-1.1-1.1c0,0,0,0,0,0V13c0-0.6-0.5-1.1-1.1-1.1H4    c-0.6,0-1.1,0.5-1.1,1.1v29c0,0.6-0.5,1.1-1.1,1.1H1.1c-0.6,0-1.1,0.5-1.1,1.1v2.1c0,0.6,0.5,1.1,1.1,1.1h51.3    c0.6,0,1.1-0.5,1.1-1.1v-2.1C53.5,43.7,53,43.2,52.4,43.2L52.4,43.2z M18.9,29.8h-1.2c-0.9,0-1.7,0.7-1.7,1.6c0,0,0,0,0,0v1.2    c0,0.9-0.6,1.6-1.5,1.7c-0.9,0-1.5-0.8-1.5-1.7v-1.2c0-0.9-0.7-1.7-1.7-1.7l0,0h-1.1c-0.8,0.1-1.6-0.5-1.7-1.3    c-0.1-0.8,0.5-1.6,1.3-1.7c0.1,0,0.2,0,0.3,0h1.2c0.9,0,1.6-0.8,1.6-1.7V24c0-0.9,0.6-1.6,1.5-1.7c0.9,0,1.5,0.8,1.5,1.7v1.2    c0,0.9,0.8,1.7,1.7,1.7h1.2c0.8-0.1,1.6,0.5,1.7,1.3c0.1,0.8-0.5,1.6-1.3,1.7C19.1,29.9,19,29.9,18.9,29.8L18.9,29.8z M43.3,29.8    h-8.7c-0.8,0.1-1.6-0.5-1.7-1.3c-0.1-0.8,0.5-1.6,1.3-1.7c0.1,0,0.2,0,0.3,0h8.7c0.8-0.1,1.6,0.5,1.7,1.3c0.1,0.8-0.5,1.6-1.3,1.7    C43.6,29.9,43.4,29.9,43.3,29.8z"
+   id="path6" />
+	</g>
+</g>
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="84.261px"
+   height="74.352px"
+   viewBox="360.791 71.369 84.261 74.352"
+   enable-background="new 360.791 71.369 84.261 74.352"
+   xml:space="preserve"
+   sodipodi:docname="简易传送机-04.svg"><metadata
+   id="metadata17"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs15" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview13" />
+<g
+   id="g10">
+	<path
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M444.71,97.181l-44.12-25.47   c-2,3.47-4.45,6.64-7.26,9.45l36.02,36.02C435.3,111.231,440.47,104.511,444.71,97.181z"
+   id="path2" />
+	<path
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M429.35,117.181l-36.02-36.02   c-2.812,2.81-5.98,5.25-9.45,7.26l25.47,44.11C416.68,128.301,423.4,123.131,429.35,117.181z"
+   id="path4" />
+	<path
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M409.35,132.531l-25.47-44.11   c-3.41,1.97-7.11,3.52-11.02,4.56l13.188,49.22C394.31,139.991,402.13,136.721,409.35,132.531z"
+   id="path6" />
+	<path
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M386.05,142.201l-13.188-49.22   c-3.771,1.01-7.73,1.55-11.82,1.55v50.94C369.69,145.471,378.08,144.331,386.05,142.201z"
+   id="path8" />
+</g>
+</svg>

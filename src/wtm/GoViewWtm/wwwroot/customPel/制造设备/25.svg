@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="101.83px"
+   height="37.561px"
+   viewBox="449.794 567.95 101.83 37.561"
+   enable-background="new 449.794 567.95 101.83 37.561"
+   xml:space="preserve"
+   sodipodi:docname="01-25.svg"><metadata
+   id="metadata13"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs11" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview9" />
+<g
+   id="g6">
+	
+		<polygon
+   fill="#FFFFFF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   506.674,593.68 499.244,605.26 493.514,593.68  "
+   id="polygon2" />
+	
+		<polygon
+   fill="#40EDFF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   551.374,583.01 551.374,591.01 514.094,591.01 511.884,585.551 506.674,593.68 493.514,593.68 488.544,583.64 480.364,591.81    450.044,591.81 450.044,583.81 477.054,583.81 490.764,570.109 500.144,589.04 513.504,568.2 519.494,583.01  "
+   id="polygon4" />
+</g>
+</svg>

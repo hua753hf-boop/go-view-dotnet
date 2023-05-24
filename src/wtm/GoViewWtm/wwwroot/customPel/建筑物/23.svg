@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="68.514px"
+   height="82.173px"
+   viewBox="231.654 462.832 68.514 82.173"
+   enable-background="new 231.654 462.832 68.514 82.173"
+   xml:space="preserve"
+   sodipodi:docname="01-23.svg"><metadata
+   id="metadata45"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs43" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview41" />
+<g
+   id="g38">
+	
+		<polygon
+   fill="#F7D894"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   258.073,487.056 258.073,507.101 231.904,507.101 231.904,544.755 258.073,544.755 273.891,544.755 287.571,544.755    287.571,487.056  "
+   id="polygon2" />
+	
+		<polygon
+   fill="#FFECBB"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   258.073,501.412 239.357,501.412 231.904,507.101 258.073,507.101  "
+   id="polygon4" />
+	<g
+   id="g10">
+		
+			<rect
+   x="244.774"
+   y="483.67"
+   fill="#F7D894"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   width="5.698"
+   height="20.586"
+   id="rect6" />
+		
+			<rect
+   x="246.307"
+   y="463.082"
+   fill="#F7D894"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   width="2.633"
+   height="20.588"
+   id="rect8" />
+	</g>
+	
+		<polygon
+   fill="#FFECBB"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   299.918,478.116 270.42,478.116 258.073,487.056 287.571,487.056  "
+   id="polygon12" />
+	
+		<polygon
+   fill="#CC9966"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   299.918,535.815 287.571,544.755 287.571,487.056 299.918,478.116  "
+   id="polygon14" />
+	<polygon
+   points="293.456,534.713 290.405,536.924 290.405,492.111 293.456,489.902  "
+   id="polygon16" />
+	<polygon
+   points="297.816,531.703 294.766,533.912 294.766,489.103 297.816,486.893  "
+   id="polygon18" />
+	<g
+   id="g24">
+		
+			<rect
+   x="264.542"
+   y="493.965"
+   fill="#CC9966"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   width="7.585"
+   height="7.447"
+   id="rect20" />
+		
+			<rect
+   x="274.835"
+   y="493.965"
+   fill="#CC9966"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   width="7.584"
+   height="7.447"
+   id="rect22" />
+	</g>
+	<g
+   id="g30">
+		
+			<rect
+   x="264.542"
+   y="504.256"
+   fill="#CC9966"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   width="7.585"
+   height="7.448"
+   id="rect26" />
+		
+			<rect
+   x="274.835"
+   y="504.256"
+   fill="#CC9966"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   width="7.584"
+   height="7.448"
+   id="rect28" />
+	</g>
+	<g
+   id="g36">
+		
+			<rect
+   x="264.542"
+   y="514.551"
+   fill="#CC9966"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   width="7.585"
+   height="7.446"
+   id="rect32" />
+		
+			<rect
+   x="274.835"
+   y="514.551"
+   fill="#CC9966"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   width="7.584"
+   height="7.446"
+   id="rect34" />
+	</g>
+</g>
+</svg>

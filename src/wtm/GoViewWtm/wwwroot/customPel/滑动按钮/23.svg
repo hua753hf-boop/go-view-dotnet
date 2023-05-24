@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 130.8 46.4"
+   style="enable-background:new 0 0 130.8 46.4;"
+   xml:space="preserve"
+   sodipodi:docname="推钮一_2.svg"><metadata
+   id="metadata27"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs25" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview23" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{opacity:0.5;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#5FB64C;}
+	.st3{opacity:0.6;}
+	.st4{fill:#9E9E9F;}
+</style>
+<title
+   id="title4">资源 2</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_1-2">
+		<g
+   class="st0"
+   id="g10">
+			<path
+   class="st1"
+   d="M116.2,45.7H14.6c-7.7,0-13.9-6.2-13.9-13.9V14.6c0-7.7,6.2-13.9,13.9-13.9h101.6c7.7,0,13.9,6.2,13.9,13.9     v17.3C130.1,39.5,123.9,45.7,116.2,45.7z"
+   id="path6" />
+			<path
+   class="st2"
+   d="M116.2,46.4H14.6C6.5,46.4,0,39.9,0,31.8V14.6C0,6.5,6.5,0,14.6,0h101.6c8,0,14.6,6.5,14.6,14.6v17.3     C130.8,39.9,124.2,46.4,116.2,46.4z M14.6,1.4C7.3,1.4,1.4,7.3,1.4,14.6v17.3C1.4,39.1,7.3,45,14.6,45h101.6     c7.3,0,13.2-5.9,13.2-13.2V14.6c0-7.3-5.9-13.2-13.2-13.2H14.6z"
+   id="path8" />
+		</g>
+		<g
+   class="st3"
+   id="g14">
+			<circle
+   class="st2"
+   cx="101.8"
+   cy="23.2"
+   r="16.6"
+   id="circle12" />
+		</g>
+		<path
+   class="st4"
+   d="M25.9,23.9c0-1.3,0.2-2.5,0.7-3.7c0.3-0.7,0.8-1.4,1.4-2c0.5-0.6,1.2-1,1.9-1.3c1-0.4,2.1-0.6,3.1-0.6    c1.9-0.1,3.8,0.6,5.1,2c1.4,1.5,2,3.5,1.9,5.5c0.1,2-0.6,4-1.9,5.5c-1.3,1.4-3.2,2.1-5.1,2c-1.9,0.1-3.8-0.6-5.1-2    C26.4,27.9,25.8,25.9,25.9,23.9z M28.9,23.8c-0.1,1.3,0.3,2.7,1.1,3.7c1.5,1.6,3.9,1.7,5.5,0.2c0.1-0.1,0.2-0.2,0.2-0.2    c0.8-1.1,1.2-2.4,1.1-3.8c0.1-1.3-0.3-2.7-1.1-3.7c-1.6-1.6-4.1-1.6-5.7-0.1c0,0-0.1,0.1-0.1,0.1C29.2,21.1,28.8,22.5,28.9,23.8    L28.9,23.8z"
+   id="path16" />
+		<path
+   class="st4"
+   d="M42.3,31.1V16.6h2.8l5.9,9.7v-9.7h2.7v14.5h-2.9L45,21.6v9.5H42.3z"
+   id="path18" />
+	</g>
+</g>
+</svg>

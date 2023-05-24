@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="86.734px"
+   height="86.734px"
+   viewBox="149.432 166.013 86.734 86.734"
+   enable-background="new 149.432 166.013 86.734 86.734"
+   xml:space="preserve"
+   sodipodi:docname="01-08.svg"><metadata
+   id="metadata53"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs51" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview49" />
+<g
+   id="g46">
+	<g
+   id="g6">
+		
+			<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="229.811"
+   y1="214.379"
+   x2="234.811"
+   y2="214.379"
+   id="line2" />
+		
+			<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="232.311"
+   y1="216.878"
+   x2="232.311"
+   y2="211.878"
+   id="line4" />
+	</g>
+	
+		<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="151.528"
+   y1="214.378"
+   x2="156.528"
+   y2="214.378"
+   id="line8" />
+	<g
+   id="g44">
+		
+			<rect
+   x="168.631"
+   y="185.208"
+   transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 181.0757 493.7516)"
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   width="48.332"
+   height="48.333"
+   id="rect10" />
+		<g
+   id="g16">
+			<polygon
+   fill="#231815"
+   points="211.721,186.211 212.008,194.409 203.81,194.122    "
+   id="polygon12" />
+			
+				<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="207.921"
+   y1="198.497"
+   x2="216.095"
+   y2="190.322"
+   id="line14" />
+		</g>
+		<g
+   id="g22">
+			<polygon
+   fill="#231815"
+   points="211.721,232.542 212.008,224.344 203.811,224.632    "
+   id="polygon18" />
+			
+				<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="207.921"
+   y1="220.256"
+   x2="216.096"
+   y2="228.431"
+   id="line20" />
+		</g>
+		<g
+   id="g28">
+			<polygon
+   fill="#231815"
+   points="177.544,198.365 177.831,190.167 169.634,190.455    "
+   id="polygon24" />
+			
+				<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="173.743"
+   y1="186.079"
+   x2="181.918"
+   y2="194.254"
+   id="line26" />
+		</g>
+		<g
+   id="g34">
+			<polygon
+   fill="#231815"
+   points="177.544,220.388 177.831,228.586 169.634,228.298    "
+   id="polygon30" />
+			
+				<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="173.744"
+   y1="232.673"
+   x2="181.918"
+   y2="224.499"
+   id="line32" />
+		</g>
+		
+			<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="192.799"
+   y1="252.747"
+   x2="192.799"
+   y2="243.554"
+   id="line36" />
+		
+			<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="192.799"
+   y1="175.206"
+   x2="192.799"
+   y2="166.013"
+   id="line38" />
+		
+			<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="236.166"
+   y1="209.38"
+   x2="226.974"
+   y2="209.38"
+   id="line40" />
+		
+			<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="158.624"
+   y1="209.38"
+   x2="149.432"
+   y2="209.38"
+   id="line42" />
+	</g>
+</g>
+</svg>

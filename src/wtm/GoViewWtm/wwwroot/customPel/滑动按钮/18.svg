@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 103.5 47"
+   style="enable-background:new 0 0 103.5 47;"
+   xml:space="preserve"
+   sodipodi:docname="推钮二_17.svg"><metadata
+   id="metadata38"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs36" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview34" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<title
+   id="title4">资源 17</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_1-2">
+		
+			<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="-9.094947e-13"
+   y1="765.5"
+   x2="103.49"
+   y2="765.5"
+   gradientTransform="matrix(1 0 0 1 0 -742)">
+			<stop
+   offset="0"
+   style="stop-color:#57DBFF"
+   id="stop6" />
+			<stop
+   offset="0.22"
+   style="stop-color:#55D8FF"
+   id="stop8" />
+			<stop
+   offset="0.4"
+   style="stop-color:#4FCEFD"
+   id="stop10" />
+			<stop
+   offset="0.56"
+   style="stop-color:#44BDFA"
+   id="stop12" />
+			<stop
+   offset="0.72"
+   style="stop-color:#35A5F7"
+   id="stop14" />
+			<stop
+   offset="0.86"
+   style="stop-color:#2287F2"
+   id="stop16" />
+			<stop
+   offset="1"
+   style="stop-color:#0C63ED"
+   id="stop18" />
+		</linearGradient>
+		<path
+   class="st0"
+   d="M80,0H23.5C10.5,0.4,0.3,11.2,0.7,24.2C1,36.6,11.1,46.6,23.5,47H80c13-0.4,23.2-11.2,22.8-24.2    C102.5,10.4,92.4,0.4,80,0z"
+   id="path21" />
+		<path
+   class="st1"
+   d="M54.5,22.9c0-1.3,0.2-2.6,0.7-3.9c0.3-0.7,0.8-1.4,1.4-2c0.5-0.6,1.2-1,1.9-1.3c1-0.4,2.1-0.6,3.2-0.6    c2-0.1,3.9,0.7,5.3,2c1.4,1.6,2.1,3.6,2,5.7c0.1,2.1-0.6,4.1-2,5.7c-1.4,1.4-3.3,2.1-5.3,2c-2,0.1-3.9-0.6-5.3-2    C55.1,26.9,54.4,24.9,54.5,22.9z M57.6,22.8c-0.1,1.4,0.3,2.7,1.2,3.8c0.8,0.9,1.9,1.3,3,1.3s2.2-0.4,2.9-1.3    c0.9-1.1,1.3-2.5,1.2-3.9c0.1-1.4-0.3-2.7-1.1-3.8c-0.8-0.8-1.9-1.3-3-1.3s-2.2,0.4-3,1.3C57.9,20,57.5,21.4,57.6,22.8z"
+   id="path23" />
+		<path
+   class="st1"
+   d="M71.4,30.2V15.3h10.2v2.5h-7.2v3.5h6.2v2.5h-6.2v6.3h-3V30.2z"
+   id="path25" />
+		<path
+   class="st1"
+   d="M84.1,30.2V15.3h10.2v2.5h-7.2v3.5h6.2v2.5h-6.2v6.3h-3V30.2z"
+   id="path27" />
+		<circle
+   class="st1"
+   cx="23.7"
+   cy="23.5"
+   r="21.6"
+   id="circle29" />
+	</g>
+</g>
+</svg>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="81px"
+   height="51.936px"
+   viewBox="0 0 81 51.936"
+   enable-background="new 0 0 81 51.936"
+   xml:space="preserve"
+   sodipodi:docname="空调-97.svg"><metadata
+   id="metadata33"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs31" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview29" />
+<rect
+   x="40.5"
+   y="10.278"
+   fill="#FFFFFF"
+   width="14.252"
+   height="1"
+   id="rect2" />
+<g
+   id="g26">
+	<defs
+   id="defs5">
+		<rect
+   id="SVGID_1_"
+   width="81"
+   height="51.936" />
+	</defs>
+	<clipPath
+   id="SVGID_2_">
+		<use
+   xlink:href="#SVGID_1_"
+   overflow="visible"
+   id="use7" />
+	</clipPath>
+	<rect
+   clip-path="url(#SVGID_2_)"
+   fill="#040000"
+   width="81"
+   height="76"
+   id="rect10" />
+	<path
+   clip-path="url(#SVGID_2_)"
+   fill="#FFFFFF"
+   d="M58.414,50.472h-35.83V16.986L37.012,3.142h21.402V50.472z M24.584,48.472   h31.83V5.142H37.816L24.584,17.839V48.472z"
+   id="path12" />
+	<polygon
+   clip-path="url(#SVGID_2_)"
+   fill="#FFFFFF"
+   points="38.415,18.413 23.584,18.413 23.584,16.413 36.415,16.413    36.415,4.142 38.415,4.142  "
+   id="polygon14" />
+	<rect
+   x="40.5"
+   y="16.912"
+   clip-path="url(#SVGID_2_)"
+   fill="#FFFFFF"
+   width="14.252"
+   height="1"
+   id="rect16" />
+	<rect
+   x="26.333"
+   y="23.547"
+   clip-path="url(#SVGID_2_)"
+   fill="#FFFFFF"
+   width="28.334"
+   height="1"
+   id="rect18" />
+	<rect
+   x="26.333"
+   y="30.182"
+   clip-path="url(#SVGID_2_)"
+   fill="#FFFFFF"
+   width="28.334"
+   height="1"
+   id="rect20" />
+	<rect
+   x="26.333"
+   y="36.818"
+   clip-path="url(#SVGID_2_)"
+   fill="#FFFFFF"
+   width="28.334"
+   height="1"
+   id="rect22" />
+	<rect
+   x="26.333"
+   y="43.453"
+   clip-path="url(#SVGID_2_)"
+   fill="#FFFFFF"
+   width="28.334"
+   height="1"
+   id="rect24" />
+</g>
+</svg>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="102.294px"
+   height="98.774px"
+   viewBox="159.141 347.054 102.294 98.774"
+   enable-background="new 159.141 347.054 102.294 98.774"
+   xml:space="preserve"
+   sodipodi:docname="01-19.svg"><metadata
+   id="metadata37"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs35" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview33" />
+<g
+   id="g30">
+	
+		<rect
+   x="159.391"
+   y="420.916"
+   fill="#E5E5E5"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   width="91.949"
+   height="24.663"
+   id="rect2" />
+	
+		<rect
+   x="159.391"
+   y="412.219"
+   fill="#7FD7EF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   width="91.949"
+   height="8.696"
+   id="rect4" />
+	
+		<polygon
+   fill="#AAAAAA"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   261.185,439.805 251.34,445.579 251.34,420.916 261.185,415.143  "
+   id="polygon6" />
+	
+		<polygon
+   fill="#4BA3B7"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   261.185,415.143 251.34,420.916 251.34,412.219 261.185,406.444  "
+   id="polygon8" />
+	
+		<polygon
+   fill="#E6ECED"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   261.185,406.444 175.141,406.444 159.391,412.219 251.34,412.219  "
+   id="polygon10" />
+	
+		<rect
+   x="221.333"
+   y="395.255"
+   fill="#E5E5E5"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   width="30.007"
+   height="16.965"
+   id="rect12" />
+	
+		<polygon
+   fill="#AAAAAA"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   261.185,406.444 251.34,412.219 251.34,395.255 261.185,389.48  "
+   id="polygon14" />
+	
+		<polygon
+   fill="#E5E5E5"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   261.185,389.48 235.046,389.48 221.333,395.255 251.34,395.255  "
+   id="polygon16" />
+	
+		<path
+   fill="#AAAAAA"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   d="   M192.984,403.919v4.384c0,1.044,2.011,1.89,4.49,1.89s4.489-0.846,4.489-1.89v-4.384H192.984z"
+   id="path18" />
+	
+		<ellipse
+   fill="#E5E5E5"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="197.474"
+   cy="403.919"
+   rx="4.49"
+   ry="1.127"
+   id="ellipse20" />
+	
+		<path
+   fill="#AAAAAA"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   d="   M240.818,372.285v18.68c0,0.855,1.348,1.141,3.009,1.141c1.662,0,3.008-0.284,3.008-1.141v-18.68H240.818z"
+   id="path22" />
+	
+		<ellipse
+   fill="#E5E5E5"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="243.827"
+   cy="372.285"
+   rx="3.008"
+   ry="0.621"
+   id="ellipse24" />
+	
+		<path
+   fill="#AAAAAA"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   d="   M242.396,347.304v24.612c0,0.332,0.642,0.368,1.431,0.368c0.79,0,1.43-0.036,1.43-0.368v-24.612H242.396z"
+   id="path26" />
+	
+		<ellipse
+   fill="#E5E5E5"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="243.827"
+   cy="347.304"
+   rx="1.43"
+   ry="0.214"
+   id="ellipse28" />
+</g>
+</svg>

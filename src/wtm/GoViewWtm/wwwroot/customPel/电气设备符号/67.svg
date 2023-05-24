@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="72.613px"
+   height="23.806px"
+   viewBox="394.828 999.281 72.613 23.806"
+   enable-background="new 394.828 999.281 72.613 23.806"
+   xml:space="preserve"
+   sodipodi:docname="01-67.svg"><metadata
+   id="metadata31"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs29" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview27" />
+<g
+   id="g24">
+	<g
+   id="g14">
+		<g
+   id="g6">
+			
+				<circle
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="445.1"
+   cy="1002.674"
+   r="3.142"
+   id="circle2" />
+			
+				<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   x1="448.241"
+   y1="1002.674"
+   x2="467.442"
+   y2="1002.674"
+   id="line4" />
+		</g>
+		<g
+   id="g12">
+			
+				<circle
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="445.1"
+   cy="1019.695"
+   r="3.142"
+   id="circle8" />
+			
+				<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   x1="448.241"
+   y1="1019.695"
+   x2="467.442"
+   y2="1019.695"
+   id="line10" />
+		</g>
+	</g>
+	<g
+   id="g22">
+		
+			<circle
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="415.426"
+   cy="1011.184"
+   r="3.142"
+   id="circle16" />
+		
+			<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   x1="436.023"
+   y1="1011.186"
+   x2="418.568"
+   y2="1011.186"
+   id="line18" />
+		
+			<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   x1="412.283"
+   y1="1011.186"
+   x2="394.828"
+   y2="1011.186"
+   id="line20" />
+	</g>
+</g>
+</svg>

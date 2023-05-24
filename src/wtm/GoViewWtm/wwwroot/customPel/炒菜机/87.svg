@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 52.2 50"
+   style="enable-background:new 0 0 52.2 50;"
+   xml:space="preserve"
+   sodipodi:docname="炒菜机_087.svg"><metadata
+   id="metadata15"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs13" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview11" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#1296DB;}
+</style>
+<title
+   id="title4">资源 87</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_1-2">
+		<path
+   class="st0"
+   d="M11.4,13.2c1.9,0,3.4-1.9,3.4-4.2V4.2c0-2.3-1.5-4.2-3.4-4.2S8,1.9,8,4.2V9C8,11.3,9.5,13.2,11.4,13.2z     M40.7,13.2c1.9,0,3.4-1.9,3.4-4.2V4.2c0-2.3-1.7-4.2-3.6-4.2s-3.3,1.9-3.3,4.2V9C37.3,11.3,38.8,13.2,40.7,13.2L40.7,13.2z     M48.7,5h-2v6.9c0,1.6-1.3,2.9-2.9,2.9h-6c-1.6,0-2.9-1.3-2.9-2.9V5H17.5v6.9c0,1.6-1.3,2.9-2.9,2.9h-6c-1.6,0-2.9-1.3-2.9-2.9V5    H3.5C1.6,5,0,6.6,0,8.5v38C0,48.4,1.6,50,3.5,50h45.2c1.9,0,3.5-1.6,3.5-3.5v-38C52.1,6.6,50.6,5,48.7,5z M39,28.1L25.8,41.3    c-1.1,1.1-3,1.1-4.1,0l0,0L11.5,31.2c-1.1-1.1-1.2-3,0-4.1s3-1.2,4.1,0l8.1,8.1L34.9,24c1-1.2,2.9-1.4,4.1-0.3    c1.2,1,1.4,2.9,0.3,4.1C39.2,27.9,39.1,28,39,28.1z"
+   id="path6" />
+	</g>
+</g>
+</svg>

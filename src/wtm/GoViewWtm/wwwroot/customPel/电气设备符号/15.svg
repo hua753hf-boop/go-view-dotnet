@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="91.114px"
+   height="34.133px"
+   viewBox="252.143 291.096 91.114 34.133"
+   enable-background="new 252.143 291.096 91.114 34.133"
+   xml:space="preserve"
+   sodipodi:docname="01-15.svg"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs21" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview19" />
+<g
+   id="g16">
+	<g
+   id="g10">
+		<polyline
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   points="268.993,307.148 261.643,307.148     261.643,312.148 261.643,317.148 268.993,317.148   "
+   id="polyline2" />
+		<polyline
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   points="292.633,317.148 299.982,317.148     299.982,312.148 299.982,307.148 292.633,307.148   "
+   id="polyline4" />
+		<circle
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   cx="280.812"
+   cy="312.146"
+   r="12.833"
+   id="circle6" />
+		
+			<line
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   x1="261.643"
+   y1="312.148"
+   x2="252.143"
+   y2="312.148"
+   id="line8" />
+	</g>
+	<path
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M343.257,312.148h-9.295   c0-1.931-1.566-3.497-3.497-3.497c-1.932,0-3.497,1.565-3.497,3.497c0-1.931-1.566-3.497-3.497-3.497   c-1.932,0-3.497,1.565-3.497,3.497c0-1.931-1.566-3.497-3.497-3.497s-3.497,1.565-3.497,3.497c0-1.931-1.566-3.497-3.497-3.497   s-3.497,1.565-3.497,3.497h-6.003"
+   id="path12" />
+	<path
+   fill="none"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   d="M343.257,294.843h-44.386   c0-1.931-1.565-3.497-3.496-3.497c-1.932,0-3.497,1.565-3.497,3.497c0-1.931-1.566-3.497-3.497-3.497   c-1.932,0-3.497,1.565-3.497,3.497c0-1.931-1.566-3.497-3.497-3.497s-3.497,1.565-3.497,3.497c0-1.931-1.566-3.497-3.497-3.497   s-3.497,1.565-3.497,3.497h-18.753"
+   id="path14" />
+</g>
+</svg>

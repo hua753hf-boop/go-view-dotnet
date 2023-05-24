@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="101.37px"
+   height="83.769px"
+   viewBox="131.481 791.778 101.37 83.769"
+   enable-background="new 131.481 791.778 101.37 83.769"
+   xml:space="preserve"
+   sodipodi:docname="01-33.svg"><metadata
+   id="metadata25"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs23" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview21" />
+<g
+   id="g18">
+	
+		<path
+   fill="#40EDFF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   d="   M190.746,822.25l-35.617-1.617v32l39.339-1.785c7.922-0.36,10.661-6.632,10.661-14.215S198.854,822.616,190.746,822.25z"
+   id="path2" />
+	
+		<circle
+   fill="#40EDFF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="155.129"
+   cy="836.633"
+   r="16"
+   id="circle4" />
+	
+		<path
+   fill="#40EDFF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   d="   M229.811,850.272c1.76,2.57,2.79,5.68,2.79,9.021c0,8.84-7.17,16-16,16h-38v-32h5.95h32.05c3.36,0,6.47,1.039,9.05,2.811"
+   id="path6" />
+	
+		<circle
+   fill="#40EDFF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="178.596"
+   cy="859.297"
+   r="16"
+   id="circle8" />
+	
+		<polyline
+   fill="#40EDFF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="   229.81,850.271 171.73,792.028 131.731,792.028 191.929,850.449  "
+   id="polyline10" />
+	<g
+   id="g16">
+		
+			<path
+   fill="#40EDFF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   d="    M213.73,795.765h-38v32h38c8.837,0,16-7.163,16-16S222.567,795.765,213.73,795.765z"
+   id="path12" />
+		
+			<circle
+   fill="#40EDFF"
+   stroke="#000000"
+   stroke-width="0.5"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="175.73"
+   cy="811.765"
+   r="16"
+   id="circle14" />
+	</g>
+</g>
+</svg>

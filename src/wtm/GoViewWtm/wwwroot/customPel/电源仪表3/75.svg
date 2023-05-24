@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 55 48.7"
+   style="enable-background:new 0 0 55 48.7;"
+   xml:space="preserve"
+   sodipodi:docname="UPS电源_275.svg"><metadata
+   id="metadata15"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs13" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview11" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#1296DB;}
+</style>
+<title
+   id="title4">资源 275</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_2-2">
+		<path
+   class="st0"
+   d="M32.1,0l5.5,5.3L23.9,17l-9.3-7.8L0,21.2v5.2l14.6-12l9.3,7.8L40.4,8.1l4.6,4.5V0H32.1z M11.3,22.4v24.9H18    V22.5l-3.4-2.8L11.3,22.4z M0,47.3h6.7V26.1L0,31.6V47.3z M40.5,17.9v-4.6L33.8,19v0.5C35.9,18.5,38.2,18,40.5,17.9z M41.2,21.1    c-7.6,0-13.8,6.2-13.8,13.8s6.2,13.8,13.8,13.8c7.6,0,13.8-6.2,13.8-13.8c0,0,0,0,0,0C55,27.3,48.8,21.1,41.2,21.1    C41.2,21.1,41.2,21.1,41.2,21.1z M47.6,39.5c0,1.8-0.8,2.8-2.5,2.8H42c-0.2-0.8-0.4-1.5-0.7-2.3c1.1,0,2,0.1,2.8,0.1    s1.2-0.4,1.2-1.1v-1.1h-7.1c0,1.8-0.8,3.5-2.2,4.7c-0.7-0.6-1.4-1.2-2-1.7c0.8-0.7,1.4-1.6,1.7-2.7c0.3-1.4,0.5-2.8,0.4-4.2v-6.1    h11.5V39.5z M45.3,33.9h-7v1.8h7V33.9z M38.3,29.9h7v1.9h-7V29.9z M24.1,34.9c0-4.2,1.5-8.2,4.3-11.3l-4.6,3.9l-1.3-1.1v21h6.7V47    C26,43.8,24.2,39.4,24.1,34.9L24.1,34.9z"
+   id="path6" />
+	</g>
+</g>
+</svg>

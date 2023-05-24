@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="124.462px"
+   height="58.961px"
+   viewBox="301.603 1162.504 124.462 58.961"
+   enable-background="new 301.603 1162.504 124.462 58.961"
+   xml:space="preserve"
+   sodipodi:docname="01-91.svg"><metadata
+   id="metadata58"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs56" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview54" />
+<g
+   id="g51">
+	
+		<radialGradient
+   id="SVGID_1_"
+   cx="-428.9636"
+   cy="-8.6077"
+   r="78.779"
+   gradientTransform="matrix(1.4667 0 0 -1.4667 935.1769 1151.0852)"
+   gradientUnits="userSpaceOnUse">
+		<stop
+   offset="0.1034"
+   style="stop-color:#EAEAEA"
+   id="stop2" />
+		<stop
+   offset="0.2069"
+   style="stop-color:#E2E2E2"
+   id="stop4" />
+		<stop
+   offset="0.5369"
+   style="stop-color:#D8D8D8"
+   id="stop6" />
+		<stop
+   offset="0.6045"
+   style="stop-color:#D4D4D4"
+   id="stop8" />
+		<stop
+   offset="0.6731"
+   style="stop-color:#C8C8C8"
+   id="stop10" />
+		<stop
+   offset="0.7422"
+   style="stop-color:#B3B3B3"
+   id="stop12" />
+		<stop
+   offset="0.8113"
+   style="stop-color:#979797"
+   id="stop14" />
+		<stop
+   offset="0.8533"
+   style="stop-color:#828282"
+   id="stop16" />
+		<stop
+   offset="1"
+   style="stop-color:#7F7F7F"
+   id="stop18" />
+	</radialGradient>
+	<rect
+   x="302.243"
+   y="1162.504"
+   fill="url(#SVGID_1_)"
+   width="123.821"
+   height="58.961"
+   id="rect21" />
+	
+		<radialGradient
+   id="SVGID_2_"
+   cx="-166.8152"
+   cy="-96.637"
+   r="91.5012"
+   gradientTransform="matrix(1.2375 0 0 -1.2375 607.2504 1092.2883)"
+   gradientUnits="userSpaceOnUse">
+		<stop
+   offset="0.1034"
+   style="stop-color:#C8C8C8"
+   id="stop23" />
+		<stop
+   offset="0.2069"
+   style="stop-color:#C2C2C2"
+   id="stop25" />
+		<stop
+   offset="0.5369"
+   style="stop-color:#AEAEAE"
+   id="stop27" />
+		<stop
+   offset="0.8533"
+   style="stop-color:#787878"
+   id="stop29" />
+		<stop
+   offset="1"
+   style="stop-color:#8A8A8A"
+   id="stop31" />
+	</radialGradient>
+	<rect
+   x="306.85"
+   y="1167.11"
+   fill="url(#SVGID_2_)"
+   width="114.61"
+   height="49.746"
+   id="rect34" />
+	<polygon
+   points="309.269,1169.529 419.04,1169.529 419.04,1214.438 309.269,1214.438  "
+   id="polygon36" />
+	<polygon
+   fill="#DCDCDC"
+   points="301.603,1162.504 426.065,1162.504 421.548,1166.896 306.937,1166.896 302.328,1162.504  "
+   id="polygon38" />
+	
+		<radialGradient
+   id="SVGID_3_"
+   cx="431.801"
+   cy="15.991"
+   r="125.0698"
+   fx="397.3265"
+   fy="15.9618"
+   gradientTransform="matrix(1 0 0 -1 8.3999 1241.0991)"
+   gradientUnits="userSpaceOnUse">
+		<stop
+   offset="0"
+   style="stop-color:#FCEC63"
+   id="stop40" />
+		<stop
+   offset="0.1693"
+   style="stop-color:#FBEA61"
+   id="stop42" />
+		<stop
+   offset="0.66"
+   style="stop-color:#FCB51C"
+   id="stop44" />
+		<stop
+   offset="1"
+   style="stop-color:#F7AB07"
+   id="stop46" />
+	</radialGradient>
+	<rect
+   x="309.612"
+   y="1169.873"
+   fill="url(#SVGID_3_)"
+   width="109.084"
+   height="44.222"
+   id="rect49" />
+</g>
+</svg>

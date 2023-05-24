@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="45px"
+   height="45px"
+   viewBox="0 0 45 45"
+   enable-background="new 0 0 45 45"
+   xml:space="preserve"
+   sodipodi:docname="圆形按钮指示灯_67-01.svg"><metadata
+   id="metadata29"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs27" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview25" />
+<g
+   id="g22">
+	<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="22.0195"
+   y1="8.7417"
+   x2="23.1041"
+   y2="39.8004">
+		<stop
+   offset="0"
+   style="stop-color:#D7DADD"
+   id="stop2" />
+		<stop
+   offset="0.3253"
+   style="stop-color:#EAECED"
+   id="stop4" />
+		<stop
+   offset="0.6998"
+   style="stop-color:#FAFAFA"
+   id="stop6" />
+		<stop
+   offset="1"
+   style="stop-color:#FFFFFF"
+   id="stop8" />
+		<a:midPointStop
+   offset="0"
+   style="stop-color:#D7DADD" />
+		<a:midPointStop
+   offset="0.34"
+   style="stop-color:#D7DADD" />
+		<a:midPointStop
+   offset="1"
+   style="stop-color:#FFFFFF" />
+	</linearGradient>
+	<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="url(#SVGID_1_)"
+   d="M22.5,45C34.893,45,45,34.896,45,22.499   C45,10.106,34.893,0,22.5,0S0,10.106,0,22.499C0,34.896,10.107,45,22.5,45z"
+   id="path11" />
+	<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#B6B9B6"
+   d="M22.5,4.046c10.191,0.001,18.453,8.268,18.453,18.453   c0,10.191-8.262,18.454-18.453,18.455v-0.837c9.729,0,17.617-7.892,17.617-17.618c0-9.726-7.888-17.614-17.617-17.616V4.046z    M22.5,4.046L22.5,4.046v0.837l0,0c-9.726,0-17.617,7.891-17.617,17.616c0,9.727,7.892,17.618,17.617,17.618l0,0v0.837l0,0   c-10.186,0-18.453-8.264-18.453-18.455C4.047,12.313,12.314,4.046,22.5,4.046z"
+   id="path13" />
+	<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="22.5005"
+   y1="37.1006"
+   x2="22.5005"
+   y2="6.8066">
+		<stop
+   offset="0"
+   style="stop-color:#C2C700"
+   id="stop15" />
+		<stop
+   offset="1"
+   style="stop-color:#EDE800"
+   id="stop17" />
+		<a:midPointStop
+   offset="0"
+   style="stop-color:#C2C700" />
+		<a:midPointStop
+   offset="0.5"
+   style="stop-color:#C2C700" />
+		<a:midPointStop
+   offset="1"
+   style="stop-color:#EDE800" />
+	</linearGradient>
+	<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="url(#SVGID_2_)"
+   d="M22.5,40.117c9.703,0,17.617-7.915,17.617-17.618   c0-9.702-7.914-17.616-17.617-17.616S4.883,12.797,4.883,22.499C4.883,32.202,12.797,40.117,22.5,40.117z"
+   id="path20" />
+</g>
+</svg>

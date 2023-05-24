@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="87.412px"
+   height="26.666px"
+   viewBox="365.854 388.939 87.412 26.666"
+   enable-background="new 365.854 388.939 87.412 26.666"
+   xml:space="preserve"
+   sodipodi:docname="01-22.svg"><metadata
+   id="metadata27"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs25" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview23" />
+<g
+   id="g20">
+	
+		<rect
+   x="390.428"
+   y="389.189"
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   width="36.838"
+   height="26.166"
+   id="rect2" />
+	
+		<rect
+   x="366.104"
+   y="399.938"
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   width="24.323"
+   height="4.29"
+   id="rect4" />
+	<g
+   id="g18">
+		<g
+   id="g10">
+			
+				<rect
+   x="433.297"
+   y="394.585"
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   width="19.719"
+   height="3.708"
+   id="rect6" />
+			
+				<rect
+   x="427.266"
+   y="393.085"
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   width="6.031"
+   height="6.708"
+   id="rect8" />
+		</g>
+		<g
+   id="g16">
+			
+				<rect
+   x="433.297"
+   y="406.252"
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   width="19.719"
+   height="3.708"
+   id="rect12" />
+			
+				<rect
+   x="427.266"
+   y="404.752"
+   fill="#40EDFF"
+   stroke="#231815"
+   stroke-width="0.5"
+   stroke-miterlimit="10"
+   width="6.031"
+   height="6.708"
+   id="rect14" />
+		</g>
+	</g>
+</g>
+</svg>

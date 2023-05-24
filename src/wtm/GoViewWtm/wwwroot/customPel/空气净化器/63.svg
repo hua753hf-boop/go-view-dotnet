@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 54.1 51"
+   style="enable-background:new 0 0 54.1 51;"
+   xml:space="preserve"
+   sodipodi:docname="空气净化器_063.svg"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs19" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview17" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#1296DB;}
+</style>
+<title
+   id="title4">资源 63</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_1-2">
+		<path
+   class="st0"
+   d="M14.7,44.8c0.9,0,1.5-0.7,1.5-1.5V15.5c0-0.9-0.7-1.6-1.6-1.6l0,0H2.3c-0.9,0-1.5,0.7-1.5,1.6v27.8    c0,0.9,0.7,1.5,1.5,1.5L14.7,44.8z M3.9,17h9.3v24.7H3.9V17z"
+   id="path6" />
+		<path
+   class="st0"
+   d="M33.2,44.8c0.9,0,1.5-0.7,1.5-1.5V1.5c0-0.9-0.7-1.5-1.5-1.5H20.9c-0.9,0-1.5,0.7-1.5,1.5v41.7    c0,0.9,0.7,1.5,1.5,1.5L33.2,44.8z M22.4,3.1h9.3v38.7h-9.3V3.1z"
+   id="path8" />
+		<path
+   class="st0"
+   d="M51.8,44.8c0.9,0,1.5-0.7,1.5-1.5V30.9c0-0.9-0.7-1.5-1.5-1.5H39.4c-0.9,0-1.5,0.7-1.5,1.5v12.4    c0,0.9,0.7,1.5,1.5,1.5L51.8,44.8z M41,32.5h9.3v9.3H41V32.5z"
+   id="path10" />
+		<path
+   class="st0"
+   d="M52.6,51c0.9,0,1.5-0.7,1.5-1.5c0-0.8-0.6-1.5-1.4-1.5c-0.1,0-0.1,0-0.2,0h-51c-0.9,0-1.6,0.7-1.6,1.5    c0,0,0,0,0,0C0,50.3,0.6,51,1.4,51c0.1,0,0.1,0,0.2,0H52.6z"
+   id="path12" />
+	</g>
+</g>
+</svg>
